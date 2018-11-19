@@ -1,0 +1,214 @@
+{
+	"anime": [
+		{
+			"title": "Bleach",
+			"tvdb_id": 74796,
+			"nsfw": false
+		},
+		{
+			"title": "Fullmetal Alchemist: Brotherhood",
+			"tvdb_id": 85249,
+			"nsfw": false
+		},
+		{
+			"title": "Cowboy Bebop",
+			"tvdb_id": 76885,
+			"nsfw": false
+		},
+		{
+			"title": "Code Geass: Lelouch of the Rebellion",
+			"tvdb_id": 79525,
+			"nsfw": false
+		},
+		{
+			"title": "Code Geass: Lelouch of the Revival",
+			"tvdb_id": 350803,
+			"nsfw": false
+		},
+		{
+			"title": "Dragon Ball Z",
+			"tvdb_id": 81472,
+			"nsfw": false
+		},
+		{
+			"title": "Gurren Lagann",
+			"tvdb_id": 80096,
+			"nsfw": false
+		},
+		{
+			"title": "Neon Genesis Evangelion",
+			"tvdb_id": 70350,
+			"nsfw": false
+		},
+		{
+			"title": "Samurai Champloo",
+			"tvdb_id": 79089,
+			"nsfw": false
+		},
+		{
+			"title": "Psycho-Pass",
+			"tvdb_id": 262090,
+			"nsfw": false
+		},
+		{
+			"title": "Naruto",
+			"tvdb_id": 78857,
+			"nsfw": false
+		},
+		{
+			"title": "Naruto Shippuden",
+			"tvdb_id": 79824,
+			"nsfw": false
+		},
+		{
+			"title": "Steins;Gate",
+			"tvdb_id": 244061,
+			"nsfw": false
+		},
+		{
+			"title": "Steins;Gate 0",
+			"tvdb_id": 339268,
+			"nsfw": false
+		},
+		{
+			"title": "Puella Magi Madoka Magica",
+			"tvdb_id": 219181,
+			"nsfw": false
+		},
+		{
+			"title": "Kill la Kill",
+			"tvdb_id": 272074,
+			"nsfw": false
+		},
+		{
+			"title": "Death Note",
+			"tvdb_id": 79481,
+			"nsfw": false
+		},
+		{
+			"title": "Death Note 2015",
+			"tvdb_id": 296956,
+			"nsfw": false
+		},
+		{
+			"title": "Angel Beats!",
+			"tvdb_id": 150471,
+			"nsfw": false
+		},
+		{
+			"title": "Dragon Ball Super",
+			"tvdb_id": 295068,
+			"nsfw": false
+		},
+		{
+			"title": "Yuri on Ice",
+			"tvdb_id": 317004,
+			"nsfw": false
+		},
+		{
+			"title": "Bleach",
+			"tvdb_id": 74796,
+			"nsfw": false
+		},
+		{
+			"title": "Clannad",
+			"tvdb_id": 80644,
+			"nsfw": false
+		},
+		{
+			"title": "Sword Art Online",
+			"tvdb_id": 259640,
+			"nsfw": false
+		},
+		{
+			"title": "One Piece",
+			"tvdb_id": 81797,
+			"nsfw": false
+		},
+		{
+			"title": "Pokémon",
+			"tvdb_id": 76703,
+			"nsfw": false
+		},
+		{
+			"title": "Eureka Seven",
+			"tvdb_id": 79360,
+			"nsfw": false
+		},
+		{
+			"title": "Attack on Titan",
+			"tvdb_id": 267440,
+			"nsfw": false
+		},
+		{
+			"title": "Hunter x Hunter",
+			"tvdb_id": 79076,
+			"nsfw": false
+		},
+		{
+			"title": "Hunter x Hunter 2011",
+			"tvdb_id": 252322,
+			"nsfw": false
+		},
+		{
+			"title": "Blue Exorcist",
+			"tvdb_id": 248035,
+			"nsfw": false
+		},
+		{
+			"title": "The Seven Deadly Sins",
+			"tvdb_id": 284131,
+			"nsfw": false
+		},
+		{
+			"title": "Soul Eater",
+			"tvdb_id": 81751,
+			"nsfw": false
+		},
+		{
+			"title": "No Game No Life",
+			"tvdb_id": 278155,
+			"nsfw": false
+		},
+		{
+			"title": "Parasyte",
+			"tvdb_id": 279831,
+			"nsfw": false
+		},
+		{
+			"title": "InuYasha",
+			"tvdb_id": 71361,
+			"nsfw": false
+		},
+		{
+			"title": "My Hero Academia",
+			"tvdb_id": 305074,
+			"nsfw": false
+		},
+		{
+			"title": "Black Butler",
+			"tvdb_id": 83996,
+			"nsfw": false
+		},
+		{
+			"title": "One-Punch Man",
+			"tvdb_id": 293088,
+			"nsfw": false
+		},
+		{
+			"title": "Shoujo Ramune",
+			"tvdb_id": 336189,
+			"nsfw": true
+		},
+		{
+			"title": "Boku No Pico",
+			"tvdb_id": 337269,
+			"nsfw": true
+		},
+		{
+			"title": "Boogiepop Phantom",
+			"tvdb_id": 71742,
+			"nsfw": false
+		},
+	]
+}
