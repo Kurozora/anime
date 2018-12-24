@@ -46,11 +46,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Battle Stage",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Chobits",
 			"tvdb_id": 72070,
 			"nsfw": false
@@ -171,11 +166,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Slayers",
-			"tvdb_id": 77681,
-			"nsfw": false
-		},
-		{
 			"title": "Fushigi no Umi no Nadia",
 			"tvdb_id": 81789,
 			"nsfw": false
@@ -251,11 +241,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Tennis no Ouji-sama",
-			"tvdb_id": 73532,
-			"nsfw": false
-		},
-		{
 			"title": "Alien 9",
 			"tvdb_id": 79239,
 			"nsfw": false
@@ -303,11 +288,6 @@
 		{
 			"title": "Bubblegum Crisis",
 			"tvdb_id": 73247,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -423,11 +403,6 @@
 		{
 			"title": "Gravitation (2000)",
 			"tvdb_id": 80456,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Next",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -556,11 +531,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Slayers Premium",
-			"tvdb_id": 77681,
-			"nsfw": false
-		},
-		{
 			"title": "Asagiri no Miko",
 			"tvdb_id": 153641,
 			"nsfw": false
@@ -616,11 +586,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "One: Kagayaku Kisetsu e",
 			"tvdb_id": 120181,
 			"nsfw": false
@@ -666,11 +631,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Second Stage",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Rockman.EXE",
 			"tvdb_id": 71682,
 			"nsfw": false
@@ -698,16 +658,6 @@
 		{
 			"title": "Yousei Hime Ren",
 			"tvdb_id": 120071,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Special",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -863,11 +813,6 @@
 		{
 			"title": "Mugen no Ryvius",
 			"tvdb_id": 72393,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2 Nettou Hen",
-			"tvdb_id": 76932,
 			"nsfw": false
 		},
 		{
@@ -1041,11 +986,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digimon Adventure",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Bishoujo Senshi Sailor Moon",
 			"tvdb_id": 78500,
 			"nsfw": false
@@ -1171,11 +1111,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Sister Princess",
 			"tvdb_id": 117871,
 			"nsfw": false
@@ -1233,16 +1168,6 @@
 		{
 			"title": "Project A-ko",
 			"tvdb_id": 78232,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Shiroi Koibito-tachi",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Shin Kimagure Orange Road: Soshite, Ano Natsu no Hajimari",
-			"tvdb_id": 78923,
 			"nsfw": false
 		},
 		{
@@ -1306,11 +1231,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Tokei Jikake no Matenrou",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "El-Hazard: The Magnificent World 2",
 			"tvdb_id": 152531,
 			"nsfw": false
@@ -1348,11 +1268,6 @@
 		{
 			"title": "Jungle wa Itsumo Hare Nochi Guu Deluxe",
 			"tvdb_id": 79050,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Cagliostro no Shiro",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -1416,11 +1331,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya: Meiou Hades Juuni Kyuu Hen",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "Saber Marionette J",
 			"tvdb_id": 81694,
 			"nsfw": false
@@ -1443,16 +1353,6 @@
 		{
 			"title": "Shadow Skill (1996)",
 			"tvdb_id": 72412,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Slayers",
-			"tvdb_id": 77681,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Return",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -1511,28 +1411,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Slayers Excellent",
-			"tvdb_id": 77681,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Try",
-			"tvdb_id": 77681,
-			"nsfw": false
-		},
-		{
 			"title": "Shin Taketori Monogatari: 1000-nen Joou",
 			"tvdb_id": 85146,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou Hen!!",
-			"tvdb_id": 76932,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!",
-			"tvdb_id": 76932,
 			"nsfw": false
 		},
 		{
@@ -1548,11 +1428,6 @@
 		{
 			"title": "Brain Powerd",
 			"tvdb_id": 71750,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Gorgeous",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -1661,11 +1536,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
 			"title": "Gekijouban Gensou Maden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka",
 			"tvdb_id": 80587,
 			"nsfw": false
@@ -1696,11 +1566,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Ranma 1/2 (1993)",
-			"tvdb_id": 76932,
-			"nsfw": false
-		},
-		{
 			"title": "Kachou Ouji: Hard Rock Save the Space",
 			"tvdb_id": 72427,
 			"nsfw": false
@@ -1723,11 +1588,6 @@
 		{
 			"title": "Kurogane Communication",
 			"tvdb_id": 113591,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece (2000)",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -1773,11 +1633,6 @@
 		{
 			"title": "Armitage III",
 			"tvdb_id": 81997,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -1838,11 +1693,6 @@
 		{
 			"title": "Tatakae!! Iczer 1",
 			"tvdb_id": 113231,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Great",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -1973,11 +1823,6 @@
 		{
 			"title": "Vandread Gekitouhen",
 			"tvdb_id": 71744,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Frontier",
-			"tvdb_id": 72241,
 			"nsfw": false
 		},
 		{
@@ -2331,11 +2176,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiya-jin",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
 			"title": "Project ARMS",
 			"tvdb_id": 72394,
 			"nsfw": false
@@ -2366,11 +2206,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Tottoko Hamtarou",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
 			"title": "Kishin Douji Zenki",
 			"tvdb_id": 72844,
 			"nsfw": false
@@ -2378,16 +2213,6 @@
 		{
 			"title": "Genocyber",
 			"tvdb_id": 85010,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Adventure 02",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Tamers",
-			"tvdb_id": 72241,
 			"nsfw": false
 		},
 		{
@@ -2433,11 +2258,6 @@
 		{
 			"title": "Kino no Tabi: The Beautiful World",
 			"tvdb_id": 79179,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Ano Hi ni Kaeritai",
-			"tvdb_id": 78923,
 			"nsfw": false
 		},
 		{
@@ -2621,11 +2441,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Third Stage",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Kidou Senshi Gundam F91",
 			"tvdb_id": 76547,
 			"nsfw": false
@@ -2643,11 +2458,6 @@
 		{
 			"title": "Uchuu no Stellvia",
 			"tvdb_id": 79782,
-			"nsfw": false
-		},
-		{
-			"title": "Initial D Extra Stage",
-			"tvdb_id": 70900,
 			"nsfw": false
 		},
 		{
@@ -2713,11 +2523,6 @@
 		{
 			"title": "Panyo Panyo Di Gi Charat",
 			"tvdb_id": 99111,
-			"nsfw": false
-		},
-		{
-			"title": "Uchuu Senkan Yamato",
-			"tvdb_id": 85230,
 			"nsfw": false
 		},
 		{
@@ -2866,28 +2671,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Dead or Alive",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Kutabare! Nostradamus",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Harimao no Zaihou o Oe!!",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa",
 			"tvdb_id": 85073,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan",
-			"tvdb_id": 79654,
 			"nsfw": false
 		},
 		{
@@ -3081,16 +2866,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z: Chikyuu Marugoto Choukessen",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Super Saiya-jin Da Son Gokuu",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
 			"title": "1000-nen Joou",
 			"tvdb_id": 85146,
 			"nsfw": false
@@ -3201,11 +2976,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Ikiteita Majutsushi",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Hamelin no Violin Hiki",
 			"tvdb_id": 252176,
 			"nsfw": false
@@ -3231,18 +3001,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Twilight Gemini no Himitsu",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "The Cockpit",
 			"tvdb_id": 209801,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Moeyo Zantetsuken",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -3261,28 +3021,13 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei Episode 0: 'First Contact'",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Divergence Eve",
 			"tvdb_id": 79161,
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Lupin vs Fukusei-ningen",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Bomberman Jetters",
 			"tvdb_id": 74718,
-			"nsfw": false
-		},
-		{
-			"title": "Saint Seiya",
-			"tvdb_id": 72775,
 			"nsfw": false
 		},
 		{
@@ -3406,11 +3151,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Baker Street no Bourei",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Trouble Chocolate",
 			"tvdb_id": 79453,
 			"nsfw": false
@@ -3423,11 +3163,6 @@
 		{
 			"title": "Kaitouranma: The Animation",
 			"tvdb_id": 262392,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Eikou no Yakiniku Road",
-			"tvdb_id": 79654,
 			"nsfw": false
 		},
 		{
@@ -3486,11 +3221,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece: Nejimakijima no Bouken",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "R.O.D: The TV",
 			"tvdb_id": 82319,
 			"nsfw": false
@@ -3528,16 +3258,6 @@
 		{
 			"title": "The Big O",
 			"tvdb_id": 73988,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da",
-			"tvdb_id": 81472,
 			"nsfw": false
 		},
 		{
@@ -3581,11 +3301,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
 			"title": "Mamotte Shugogetten!",
 			"tvdb_id": 75002,
 			"nsfw": false
@@ -3623,11 +3338,6 @@
 		{
 			"title": "Ganso Bakuretsu Hunter",
 			"tvdb_id": 72445,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter",
-			"tvdb_id": 72877,
 			"nsfw": false
 		},
 		{
@@ -3756,16 +3466,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Walther P38 - In Gedenken an die Walther P38",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Fuuma Ichizoku no Inbou",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Hagane no Renkinjutsushi",
 			"tvdb_id": 75579,
 			"nsfw": false
@@ -3795,37 +3495,7 @@
 			"tvdb_id": 79156,
 			"nsfw": false
 		},
-		{
-			"title": "Lupin Sansei: Lupin Ansatsu Shirei",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Russia yori Ai o Komete",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Babylon no Ougon Densetsu",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters: Celebi Toki o Koeta Deai",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters: Kesshoutou no Teiou Entei",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+						{
 			"title": "Taiho Shichau zo The Movie",
 			"tvdb_id": 80054,
 			"nsfw": false
@@ -3916,16 +3586,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Pocket Monsters: Maboroshi no Pokemon Lugia Bakutan",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Bye Bye Liberty - Kiki Ippatsu!",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Cat's Eye",
 			"tvdb_id": 79835,
 			"nsfw": false
@@ -3973,31 +3633,6 @@
 		{
 			"title": "Choujikuu Seiki Orguss",
 			"tvdb_id": 107781,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters Advanced Generation",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z (1989)",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi",
-			"tvdb_id": 81472,
 			"nsfw": false
 		},
 		{
@@ -4053,26 +3688,6 @@
 		{
 			"title": "Yume de Aetara OVA",
 			"tvdb_id": 120081,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Tengoku e no Count Down",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z: Fukkatsu no Fusion!! Gokuu to Vegeta",
-			"tvdb_id": 81472,
 			"nsfw": false
 		},
 		{
@@ -4276,26 +3891,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digimon Adventure Gekijouban",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Adventure: Bokura no War Game!",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Adventure 02: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Adventure 02: Diablomon no Gyakushuu",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Idol Project",
 			"tvdb_id": 263639,
 			"nsfw": false
@@ -4436,11 +4031,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digimon Tamers: Boukensha-tachi no Tatakai",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "JaJa Uma! Quartet",
 			"tvdb_id": 266289,
 			"nsfw": false
@@ -4493,16 +4083,6 @@
 		{
 			"title": "Kingdom of Chaos: Born to Kill",
 			"tvdb_id": 207111,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece: Chinjuujima no Chopper Oukoku",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece The Movie: Dead End no Bouken",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -4891,18 +4471,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya Tenkai-hen Josou: Overture",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "Akachan to Boku",
 			"tvdb_id": 253430,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Ai no da capo - Fujiko's Unlucky Days",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -5066,16 +4636,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Tamers: Bousou Digimon Tokkyuu",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Megami Paradise",
 			"tvdb_id": 271770,
 			"nsfw": false
@@ -5098,16 +4658,6 @@
 		{
 			"title": "Sengoku Majin Goushougun",
 			"tvdb_id": 251582,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei (1977)",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Part III",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -5231,11 +4781,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
 			"title": "Sousei Seiki Devadasy",
 			"tvdb_id": 175151,
 			"nsfw": false
@@ -5343,46 +4888,6 @@
 		{
 			"title": "Hurricane Polymer",
 			"tvdb_id": 150631,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter 2",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter 3",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter '91",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter: Ai to Shukumei no Magnum",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter: Bay City Wars",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter: Hyakuman Dollar no Inbou",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter Special: The Secret Service",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
-			"title": "City Hunter Special: Goodbye My Sweetheart",
-			"tvdb_id": 72877,
 			"nsfw": false
 		},
 		{
@@ -5556,11 +5061,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
 			"title": "Flanders no Inu",
 			"tvdb_id": 129721,
 			"nsfw": false
@@ -5686,11 +5186,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Soukou Kihei Votoms",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "SD Gundam Force",
 			"tvdb_id": 157211,
 			"nsfw": false
@@ -5718,11 +5213,6 @@
 		{
 			"title": "Yuusha Ou GaoGaiGar Final",
 			"tvdb_id": 93721,
-			"nsfw": false
-		},
-		{
-			"title": "Initial D Fourth Stage",
-			"tvdb_id": 70900,
 			"nsfw": false
 		},
 		{
@@ -5846,11 +5336,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dai Yamato Zero Gou",
-			"tvdb_id": 85230,
-			"nsfw": false
-		},
-		{
 			"title": "Eat-Man",
 			"tvdb_id": 87941,
 			"nsfw": false
@@ -5938,11 +5423,6 @@
 		{
 			"title": "Animation Seisaku Shinkou Kuromi-chan 2",
 			"tvdb_id": 85070,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Advanced Generation: Nana-Yo no Negaiboshi Jiraachi",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -6126,26 +5606,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya: Jashin Eris",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
-			"title": "Saint Seiya: Kamigami no Atsuki Tatakai",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
-			"title": "Saint Seiya: Shinku no Shounen Densetsu",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
-			"title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "Mahou Tsukai Sally",
 			"tvdb_id": 254807,
 			"nsfw": false
@@ -6226,23 +5686,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dr. Slump: Arale-chan",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman",
-			"tvdb_id": 250848,
-			"nsfw": false
-		},
-		{
 			"title": "Haai Step Jun",
 			"tvdb_id": 227851,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Alcatraz Connection",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -6271,11 +5716,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita no Wan Nyan Jikuuden",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "The Spirit of Wonder: China-san no Yuuutsu",
 			"tvdb_id": 87251,
 			"nsfw": false
@@ -6293,11 +5733,6 @@
 		{
 			"title": "Watashi no Ashinaga Ojisan",
 			"tvdb_id": 83276,
-			"nsfw": false
-		},
-		{
-			"title": "Uchuu Senkan Yamato: Kanketsuhen",
-			"tvdb_id": 85230,
 			"nsfw": false
 		},
 		{
@@ -6341,11 +5776,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Hemingway Paper no Nazo",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Haikara-san ga Tooru",
 			"tvdb_id": 257308,
 			"nsfw": false
@@ -6381,11 +5811,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece: Norowareta Seiken",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Takarajima",
 			"tvdb_id": 219581,
 			"nsfw": false
@@ -6418,11 +5843,6 @@
 		{
 			"title": "Mahou Tsukai Sally (1990)",
 			"tvdb_id": 254807,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Meikyuu no Crossroad",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -6513,11 +5933,6 @@
 		{
 			"title": "Kingyo Chuuihou!",
 			"tvdb_id": 99491,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: Kinnikusei Oui Soudatsu Hen",
-			"tvdb_id": 250848,
 			"nsfw": false
 		},
 		{
@@ -6656,33 +6071,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Kinnikuman (1984)",
-			"tvdb_id": 250848,
-			"nsfw": false
-		},
-		{
 			"title": "Kinnikuman II Sei: Ultimate Muscle",
 			"tvdb_id": 71419,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: 1$ Money Wars",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Napoleon no Jisho o Ubae",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Otakara Henkyaku Daisakusen!!",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Honoo no Kioku - Tokyo Crisis",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -6871,11 +6261,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
-			"tvdb_id": 85230,
-			"nsfw": false
-		},
-		{
 			"title": "Ginga Tetsudou 999: Glass no Clair",
 			"tvdb_id": 100171,
 			"nsfw": false
@@ -6883,11 +6268,6 @@
 		{
 			"title": "Groizer X",
 			"tvdb_id": 138421,
-			"nsfw": false
-		},
-		{
-			"title": "Yamato yo Towa ni",
-			"tvdb_id": 85230,
 			"nsfw": false
 		},
 		{
@@ -6916,48 +6296,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dr. Slump: Arale-chan Hello! Wonder Island",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Hoyoyo Sekai Isshuu Dai Race",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
 			"title": "Manga Aesop Monogatari (1983)",
 			"tvdb_id": 95671,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Hoyoyo! Nanabajou no Hihou",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: Ooabare! Seigi Choujin",
-			"tvdb_id": 250848,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: Seigi Choujin vs Kodai Choujin",
-			"tvdb_id": 250848,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Hoyoyo! Yume no Miyako Mechapolis",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: Gyakushuu! Uchuu Kakure Choujin",
-			"tvdb_id": 250848,
 			"nsfw": false
 		},
 		{
@@ -7026,18 +6366,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Kinnikuman: Haresugata! Seigi Choujin",
-			"tvdb_id": 250848,
-			"nsfw": false
-		},
-		{
 			"title": "Araiguma Rascal",
 			"tvdb_id": 212211,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: New York Kikiippatsu!",
-			"tvdb_id": 250848,
 			"nsfw": false
 		},
 		{
@@ -7048,11 +6378,6 @@
 		{
 			"title": "Yamato Takeru: After War",
 			"tvdb_id": 269072,
-			"nsfw": false
-		},
-		{
-			"title": "Kinnikuman: Seigi Choujin vs Senshi Choujin",
-			"tvdb_id": 250848,
 			"nsfw": false
 		},
 		{
@@ -7091,11 +6416,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Gin'yoku no Magician",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Byston Well Monogatari: Garzey no Tsubasa",
 			"tvdb_id": 215701,
 			"nsfw": false
@@ -7113,11 +6433,6 @@
 		{
 			"title": "Silent Mobius: The Motion Picture",
 			"tvdb_id": 72493,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi",
-			"tvdb_id": 81472,
 			"nsfw": false
 		},
 		{
@@ -7201,18 +6516,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
 			"title": "Final Approach",
 			"tvdb_id": 80083,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Tennis no Ouji-sama: Futari no Samurai - The First Game",
-			"tvdb_id": 73532,
 			"nsfw": false
 		},
 		{
@@ -7241,11 +6546,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digital Monster X-evolution",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Bouken Ou Beet",
 			"tvdb_id": 75205,
 			"nsfw": false
@@ -7256,26 +6556,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
 			"title": "Gantz",
 			"tvdb_id": 78916,
 			"nsfw": false
@@ -7283,11 +6563,6 @@
 		{
 			"title": "To Heart: Remember My Memories",
 			"tvdb_id": 81766,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Nusumareta Lupin",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -7476,11 +6751,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digimon Frontier: Kodai Digimon Fukkatsu!!",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Aa! Megami-sama! (2005)",
 			"tvdb_id": 78920,
 			"nsfw": false
@@ -7656,31 +6926,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece: Omatsuri Danshaku to Himitsu no Shima",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Juuyonbanme no Target",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Seikimatsu no Majutsushi",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Okusama wa Mahou Shoujo",
 			"tvdb_id": 132131,
 			"nsfw": false
@@ -7703,16 +6948,6 @@
 		{
 			"title": "Aria the Animation",
 			"tvdb_id": 79839,
-			"nsfw": false
-		},
-		{
-			"title": "Uchuu Senkan Yamato 3",
-			"tvdb_id": 85230,
-			"nsfw": false
-		},
-		{
-			"title": "Uchuu Senkan Yamato 2",
-			"tvdb_id": 85230,
 			"nsfw": false
 		},
 		{
@@ -7753,11 +6988,6 @@
 		{
 			"title": "Taiho Shichau zo: You're Under Arrest",
 			"tvdb_id": 80054,
-			"nsfw": false
-		},
-		{
-			"title": "2112 Nen Doraemon Tanjou",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -7826,11 +7056,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita to Fushigi Kaze Tsukai",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Xenosaga The Animation",
 			"tvdb_id": 79115,
 			"nsfw": false
@@ -7863,11 +7088,6 @@
 		{
 			"title": "Glass no Kamen: Sen no Kamen o Motsu Shoujo",
 			"tvdb_id": 179311,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece: Taose! Kaizoku Ganzack",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -7913,11 +7133,6 @@
 		{
 			"title": "Tobe! Isami",
 			"tvdb_id": 173601,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Suihei Senjou no Strategy",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -8001,11 +7216,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
-			"tvdb_id": 85230,
-			"nsfw": false
-		},
-		{
 			"title": "Turn A Gundam II: Gekkou Chou",
 			"tvdb_id": 71585,
 			"nsfw": false
@@ -8013,11 +7223,6 @@
 		{
 			"title": "Turn A Gundam I: Chikyuukou",
 			"tvdb_id": 71585,
-			"nsfw": false
-		},
-		{
-			"title": "Uchuu Senkan Yamato (1977)",
-			"tvdb_id": 85230,
 			"nsfw": false
 		},
 		{
@@ -8116,11 +7321,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Yuke! Gedou Otometai",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Hotori: Tada Saiwai o Koinegau",
 			"tvdb_id": 139381,
 			"nsfw": false
@@ -8133,16 +7333,6 @@
 		{
 			"title": "Shuffle!",
 			"tvdb_id": 82213,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Advanced Generation: Mew to Hadou no Yuusha Lucario",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
-			"tvdb_id": 76932,
 			"nsfw": false
 		},
 		{
@@ -8271,11 +7461,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Yamato 2520",
-			"tvdb_id": 85230,
-			"nsfw": false
-		},
-		{
 			"title": "Ankoku Shinwa",
 			"tvdb_id": 250974,
 			"nsfw": false
@@ -8348,16 +7533,6 @@
 		{
 			"title": "Glass no Kamen (2005)",
 			"tvdb_id": 179321,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2 Special",
-			"tvdb_id": 76932,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2 Super",
-			"tvdb_id": 76932,
 			"nsfw": false
 		},
 		{
@@ -8476,28 +7651,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Yuuhi no Kasukabe Boys",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3-punpokkiri Daishingeki",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "TANK S.W.A.T. 01",
 			"tvdb_id": 81965,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Boku, Momotarou no Nanna no sa",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Kyouryuu",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -8588,11 +7743,6 @@
 		{
 			"title": "Angelique: Seichi yori Ai o Komete",
 			"tvdb_id": 120041,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei Pilot Film",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -8716,21 +7866,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Obaa-chan no Omoide",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Nankai Daibouken",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Gekijouban Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
 			"tvdb_id": 76023,
 			"nsfw": false
@@ -8763,16 +7898,6 @@
 		{
 			"title": "Kingyo Chuuihou! (1992)",
 			"tvdb_id": 99491,
-			"nsfw": false
-		},
-		{
-			"title": "Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi",
-			"tvdb_id": 70817,
-			"nsfw": false
-		},
-		{
-			"title": "Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono",
-			"tvdb_id": 70817,
 			"nsfw": false
 		},
 		{
@@ -8861,11 +7986,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Conan vs Kid vs Yaiba",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Macross Plus Movie Edition",
 			"tvdb_id": 81832,
 			"nsfw": false
@@ -8908,11 +8028,6 @@
 		{
 			"title": "Pocket Monsters Side Stories",
 			"tvdb_id": 72975,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -9006,11 +8121,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gintama",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
 			"title": "Seton Doubutsuki: Kuma no Ko Jacky",
 			"tvdb_id": 83629,
 			"nsfw": false
@@ -9023,21 +8133,6 @@
 		{
 			"title": "Wakakusa no Charlotte",
 			"tvdb_id": 83811,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters: Pikachu no Fuyuyasumi (1999)",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters: Pikachu no Fuyuyasumi (2000)",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters: Pikachu no Fuyuyasumi (2001)",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -9064,12 +8159,7 @@
 			"title": "Hyakujuu Ou Golion",
 			"tvdb_id": 147921,
 			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Natsumatsuri",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
+		},		
 		{
 			"title": "Rokumon Tengai Mon Colle Knight",
 			"tvdb_id": 77586,
@@ -9201,26 +8291,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: 16 Nin no Yougisha",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Conan to Heiji to Kieta Shounen",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Conan to Kid to Crystal Mother",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruhi Chousa",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Tenkuu Senki Shurato: Sousei e no Antou",
 			"tvdb_id": 124321,
 			"nsfw": false
@@ -9341,11 +8411,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya: Meiou Hades Meikai Hen",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "I''s Pure",
 			"tvdb_id": 84049,
 			"nsfw": false
@@ -9384,12 +8449,7 @@
 			"title": "Spectral Force",
 			"tvdb_id": 238691,
 			"nsfw": false
-		},
-		{
-			"title": "Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
+		},		
 		{
 			"title": "Kagihime Monogatari Eikyuu Alice Rondo",
 			"tvdb_id": 79206,
@@ -9421,11 +8481,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Soukou Kihei Votoms: Kakuyaku taru Itan",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "Otome wa Boku ni Koishiteru",
 			"tvdb_id": 79840,
 			"nsfw": false
@@ -9448,11 +8503,6 @@
 		{
 			"title": "Minky Momo in Tabidachi no Eki",
 			"tvdb_id": 219691,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale no Bikkuriman",
-			"tvdb_id": 75112,
 			"nsfw": false
 		},
 		{
@@ -9563,11 +8613,6 @@
 		{
 			"title": "Kidou Senshi Z Gundam: A New Translation - Hoshi no Kodou wa Ai",
 			"tvdb_id": 71535,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece The Movie: Karakurijou no Mecha Kyohei",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -9751,11 +8796,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Tantei-tachi no Requiem",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
 			"tvdb_id": 81103,
 			"nsfw": false
@@ -9769,12 +8809,7 @@
 			"title": "Koi Suru Tenshi Angelique: Kokoro no Mezameru Toki",
 			"tvdb_id": 149911,
 			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Advanced Generation: Pokemon Ranger to Umi no Ouji Manaphy",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
+		},		
 		{
 			"title": "Beast Wars Second Chou Seimeitai Transformers",
 			"tvdb_id": 156481,
@@ -9871,11 +8906,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Tennis no Ouji-sama: Zenkoku Taikai Hen",
-			"tvdb_id": 73532,
-			"nsfw": false
-		},
-		{
 			"title": "Koguma no Misha",
 			"tvdb_id": 259219,
 			"nsfw": false
@@ -9908,11 +8938,6 @@
 		{
 			"title": "Yuusei Shounen Papii",
 			"tvdb_id": 204401,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Savers",
-			"tvdb_id": 72241,
 			"nsfw": false
 		},
 		{
@@ -10216,11 +9241,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Kieta Daiya o Oe! Conan & Heiji VS Kid!",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Kin'iro no Chord: Primo Passo",
 			"tvdb_id": 159551,
 			"nsfw": false
@@ -10304,12 +9324,7 @@
 			"title": "D.Gray-man",
 			"tvdb_id": 79635,
 			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Obake Carnival",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
+		},		
 		{
 			"title": "Hataraki Man",
 			"tvdb_id": 79990,
@@ -10386,11 +9401,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Ranma 1/2",
-			"tvdb_id": 76932,
-			"nsfw": false
-		},
-		{
 			"title": "Kyoushirou to Towa no Sora",
 			"tvdb_id": 112781,
 			"nsfw": false
@@ -10451,41 +9461,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Action Kamen vs Haigure Maou",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Buriburi Oukoku no Hihou",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Unkokusai no Yabou",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Densetsu o Yobu Odore! Amigo!",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Seven Days' Rhapsody",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
-			"title": "Aoyama Goushou Tanpenshuu",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "009-1",
 			"tvdb_id": 80814,
 			"nsfw": false
@@ -10498,16 +9473,6 @@
 		{
 			"title": "Fushigi Mahou Fun Fun Pharmacy",
 			"tvdb_id": 271794,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Animal Planet",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Tetsujin Heidan",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -10556,31 +9521,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Eiga Crayon Shin-chan: Henderland no Daibouken",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Ankoku Tamatama Daitsuiseki",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Jungle",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Freedom",
 			"tvdb_id": 79878,
 			"nsfw": false
@@ -10588,11 +9528,6 @@
 		{
 			"title": "Kidou Senshi SD Gundam no Gyakushuu: Arashi o Yobu Gakuensai",
 			"tvdb_id": 157211,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters: Diamond and Pearl",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -10651,11 +9586,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita no Kyouryuu (2006)",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Kidou Senshi Gundam SEED Destiny: Sadame no Gouka",
 			"tvdb_id": 74890,
 			"nsfw": false
@@ -10673,16 +9603,6 @@
 		{
 			"title": "Kodai Ouja Kyouryuu King",
 			"tvdb_id": 85329,
-			"nsfw": false
-		},
-		{
-			"title": "Nobita no Kekkon Zen'ya: The Night Before a Wedding",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Digimon Savers The Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
-			"tvdb_id": 72241,
 			"nsfw": false
 		},
 		{
@@ -10821,11 +9741,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "Eiga Futari wa Precure Splash Star: Tick Tack Kiki Ippatsu!",
 			"tvdb_id": 241301,
 			"nsfw": false
@@ -10838,11 +9753,6 @@
 		{
 			"title": "Evangelion Shin Gekijouban: Jo",
 			"tvdb_id": 70350,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -10878,11 +9788,6 @@
 		{
 			"title": "Saiyuuki Reload: Burial",
 			"tvdb_id": 80587,
-			"nsfw": false
-		},
-		{
-			"title": "Naruto Shippuuden",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -10971,11 +9876,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Zero no Tsukaima: Futatsuki no Kishi",
 			"tvdb_id": 79719,
 			"nsfw": false
@@ -11026,11 +9926,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Konpeki no Jolly Roger",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
 			"tvdb_id": 81100,
 			"nsfw": false
@@ -11048,11 +9943,6 @@
 		{
 			"title": "El Cazador de la Bruja",
 			"tvdb_id": 81096,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Tsubasa no Yuusha-tachi",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -11143,21 +10033,6 @@
 		{
 			"title": "Blue Dragon",
 			"tvdb_id": 80147,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Ginga Express",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Dorabian Nights",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -11316,23 +10191,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Soukou Kihei Votoms: The Last Red Shoulder",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Big Battle",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "Shinreigari: Ghost Hound",
 			"tvdb_id": 80733,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Pailsen Files",
-			"tvdb_id": 90521,
 			"nsfw": false
 		},
 		{
@@ -11343,11 +10203,6 @@
 		{
 			"title": "Kouya no Shounen Isamu",
 			"tvdb_id": 155161,
-			"nsfw": false
-		},
-		{
-			"title": "Tennis no Ouji-sama: Zenkoku Taikai Hen - Semifinal",
-			"tvdb_id": 73532,
 			"nsfw": false
 		},
 		{
@@ -11368,11 +10223,6 @@
 		{
 			"title": "Sasuke",
 			"tvdb_id": 155911,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Naruto Shippuuden",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -11541,11 +10391,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Battle Stage 2",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Tsubasa Tokyo Revelations",
 			"tvdb_id": 76023,
 			"nsfw": false
@@ -11588,11 +10433,6 @@
 		{
 			"title": "Night Wizard The Animation",
 			"tvdb_id": 80676,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Kiri no Elusive",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -11676,11 +10516,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Kagaku Ninjatai Gatchaman (1978)",
 			"tvdb_id": 73887,
 			"nsfw": false
@@ -11688,11 +10523,6 @@
 		{
 			"title": "Myself; Yourself",
 			"tvdb_id": 81484,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Agasa-sensei no Chousenjou! Agasa vs Conan & Shounen Tanteidan",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -11828,11 +10658,6 @@
 		{
 			"title": "Bus Gamer",
 			"tvdb_id": 81846,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman",
-			"tvdb_id": 167921,
 			"nsfw": false
 		},
 		{
@@ -12036,11 +10861,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya: Meiou Hades Elysion Hen",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "Nijuu-Mensou no Musume",
 			"tvdb_id": 84632,
 			"nsfw": false
@@ -12076,18 +10896,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece The Movie: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Maria-sama ga Miteru 4th",
 			"tvdb_id": 84025,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Green vs Red",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -12136,11 +10946,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Tennis no Ouji-sama: Zenkoku Taikai Hen - Final",
-			"tvdb_id": 73532,
-			"nsfw": false
-		},
-		{
 			"title": "The Idolmaster: Live for You!",
 			"tvdb_id": 249865,
 			"nsfw": false
@@ -12153,11 +10958,6 @@
 		{
 			"title": "Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari",
 			"tvdb_id": 227501,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -12216,11 +11016,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman: Kirakiraboshi no Namida",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Kyou kara Maou! (2008)",
 			"tvdb_id": 79879,
 			"nsfw": false
@@ -12228,11 +11023,6 @@
 		{
 			"title": "Genki Bakuhatsu Ganbaruger",
 			"tvdb_id": 333830,
-			"nsfw": false
-		},
-		{
-			"title": "Slayers Revolution",
-			"tvdb_id": 77681,
 			"nsfw": false
 		},
 		{
@@ -12268,11 +11058,6 @@
 		{
 			"title": "Fuyu no Sonata",
 			"tvdb_id": 121371,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha",
-			"tvdb_id": 79654,
 			"nsfw": false
 		},
 		{
@@ -12351,11 +11136,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Naruto Shippuuden: Kizuna",
-			"tvdb_id": 79824,
-			"nsfw": false
-		},
-		{
 			"title": "Usavich",
 			"tvdb_id": 137951,
 			"nsfw": false
@@ -12378,11 +11158,6 @@
 		{
 			"title": "Lucky Star OVA: JK",
 			"tvdb_id": 80177,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Senritsu no Full Score",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -12596,16 +11371,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Hiya Hiya Hiyariko to Babu Babu Baikinman",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Queen's Blade: Rurou no Senshi",
 			"tvdb_id": 87491,
 			"nsfw": false
@@ -12691,11 +11456,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
 			"title": "Gunslinger Girl: Il Teatrino OVA",
 			"tvdb_id": 78812,
 			"nsfw": false
@@ -12713,11 +11473,6 @@
 		{
 			"title": "One Outs",
 			"tvdb_id": 84616,
-			"nsfw": false
-		},
-		{
-			"title": "Ranma 1/2: Akumu! Shunmin Kou",
-			"tvdb_id": 76932,
 			"nsfw": false
 		},
 		{
@@ -12796,11 +11551,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece Special: Romance Dawn Story",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Kurokami The Animation",
 			"tvdb_id": 84561,
 			"nsfw": false
@@ -12856,28 +11606,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Joshikousei Tantei Suzuki Sonoko no Jikenbo",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Conan vs Kid - Shark & Jewel",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Conan vs Kid - Shikkoku no Sniper",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Senjou no Valkyria: Valkyria Chronicles",
 			"tvdb_id": 87851,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Shikkoku no Chaser",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -12991,11 +11721,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Pocket Monsters Diamond & Pearl: Arceus - Choukoku no Jikuu e",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
 			"title": "Denpateki na Kanojo",
 			"tvdb_id": 105361,
 			"nsfw": false
@@ -13013,11 +11738,6 @@
 		{
 			"title": "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen",
 			"tvdb_id": 80096,
-			"nsfw": false
-		},
-		{
-			"title": "Bakemonogatari",
-			"tvdb_id": 102261,
 			"nsfw": false
 		},
 		{
@@ -13068,16 +11788,6 @@
 		{
 			"title": "Nyoroon Churuya-san",
 			"tvdb_id": 95361,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Doraemon: Nobita to Midori no Kyojin Den",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Doraemon: Shin Nobita no Uchuu Kaitakushi",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -13171,11 +11881,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei vs Meitantei Conan",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou!",
 			"tvdb_id": 250317,
 			"nsfw": false
@@ -13203,11 +11908,6 @@
 		{
 			"title": "Tokyo Magnitude 8.0",
 			"tvdb_id": 103321,
-			"nsfw": false
-		},
-		{
-			"title": "Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message",
-			"tvdb_id": 73532,
 			"nsfw": false
 		},
 		{
@@ -13256,11 +11956,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
-			"tvdb_id": 72775,
-			"nsfw": false
-		},
-		{
 			"title": "Higepiyo",
 			"tvdb_id": 102971,
 			"nsfw": false
@@ -13278,11 +11973,6 @@
 		{
 			"title": "Cobra The Animation",
 			"tvdb_id": 137151,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -13316,11 +12006,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece Film: Strong World",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Dragon Ball Z: Atsumare! Gokuu World",
 			"tvdb_id": 81472,
 			"nsfw": false
@@ -13328,11 +12013,6 @@
 		{
 			"title": "Seiken no Blacksmith",
 			"tvdb_id": 117081,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
-			"tvdb_id": 79654,
 			"nsfw": false
 		},
 		{
@@ -13366,86 +12046,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita to Robot Kingdom",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Taiyou Ou Densetsu",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Nejimaki City Boukenki",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Sousei Nikki",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Mugen Sankenshi",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Buriki no Labyrinth",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Kumo no Oukoku",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Uchuu Kaitakushi",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Nippon Tanjou",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Parallel Saiyuuki",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita to Ryuu no Kishi",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Little Star Wars",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Makai Daibouken",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Kaitei Kiganjou",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Daimakyou",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Doraemon: Nobita no Uchuu Hyouryuuki",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Tengen Toppa Gurren Lagann Kirameki Youko Box: Pieces of Sweet Stars",
 			"tvdb_id": 80096,
 			"nsfw": false
@@ -13453,26 +12053,6 @@
 		{
 			"title": "Katanagatari",
 			"tvdb_id": 132941,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Ncha! Penguin Mura yori Ai o Komete",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete...",
-			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Dr. Slump: Arale-chan Ncha!! Wakuwaku Heart no Natsuyasumi",
-			"tvdb_id": 75112,
 			"nsfw": false
 		},
 		{
@@ -13498,11 +12078,6 @@
 		{
 			"title": "Hanamaru Youchien",
 			"tvdb_id": 134581,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: 10 Nengo no Stranger",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -13598,11 +12173,6 @@
 		{
 			"title": "Nogizaka Haruka no Himitsu: Purezza",
 			"tvdb_id": 82688,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Pailsen Files - Gekijouban",
-			"tvdb_id": 90521,
 			"nsfw": false
 		},
 		{
@@ -13711,11 +12281,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Pikachu Tanken Club",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
 			"title": "Sekirei: Pure Engagement",
 			"tvdb_id": 82807,
 			"nsfw": false
@@ -13723,51 +12288,6 @@
 		{
 			"title": "Miracle Train: Ooedo-sen e Youkoso",
 			"tvdb_id": 128541,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Natsuyasumi",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu Tankentai",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pichu to Pikachu",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Dokidoki Kakurenbo",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pika Pika Hoshizora Camp",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Odoru Pokemon Himitsu Kichi",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Wanpaku Island",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachuu Koori no Daibouken",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu no Kirakira Daisousaku!",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -13929,20 +12449,10 @@
 			"title": "Break Blade",
 			"tvdb_id": 179791,
 			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
+		},		
 		{
 			"title": "Hyakko Extra",
 			"tvdb_id": 83317,
-			"nsfw": false
-		},
-		{
-			"title": "Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -13991,11 +12501,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Gintama: Shin'yaku Benizakura Hen",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
 			"title": "xxxHOLiC Rou",
 			"tvdb_id": 79283,
 			"nsfw": false
@@ -14023,11 +12528,6 @@
 		{
 			"title": "Ningen Shikkaku: Director's Cut Ban",
 			"tvdb_id": 119781,
-			"nsfw": false
-		},
-		{
-			"title": "Aoyama Goushou Tanpenshuu 2",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -14096,11 +12596,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan Magic File 3: Shin'ichi to Ran Mahjong Pai to Tanabata no Omoide",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Shinrei Tantei Yakumo",
 			"tvdb_id": 193841,
 			"nsfw": false
@@ -14161,28 +12656,13 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Tenkuu no Lost Ship",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Bakuman.",
 			"tvdb_id": 193811,
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Crayon Shin-chan: Chou Jikuu! Arashi o Yobu Ora no Hanayome",
 			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Pocket Monsters Diamond & Pearl: Gen'ei no Hasha Zoroark",
-			"tvdb_id": 76703,
 			"nsfw": false
 		},
 		{
@@ -14226,11 +12706,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Soukou Kihei Votoms: Gen'ei Hen",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "Shukufuku no Campanella",
 			"tvdb_id": 173261,
 			"nsfw": false
@@ -14243,11 +12718,6 @@
 		{
 			"title": "B Gata H Kei",
 			"tvdb_id": 150461,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: The Last Job",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -14386,21 +12856,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman: Ruby no Negai",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Ashiaraiyashiki no Juunin-tachi.",
 			"tvdb_id": 270843,
 			"nsfw": false
@@ -14531,11 +12986,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Digimon Adventure 3D: Digimon Grand Prix!",
-			"tvdb_id": 72241,
-			"nsfw": false
-		},
-		{
 			"title": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
 			"tvdb_id": 72241,
 			"nsfw": false
@@ -14586,16 +13036,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Pokemon Ranger: Hikari no Kiseki",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Naruto Shippuuden: The Lost Tower",
-			"tvdb_id": 79824,
-			"nsfw": false
-		},
-		{
 			"title": "Aki Sora: Yume no Naka",
 			"tvdb_id": 133031,
 			"nsfw": false
@@ -14613,16 +13053,6 @@
 		{
 			"title": "Sengoku Basara Ni",
 			"tvdb_id": 87881,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Kid in Trap Island",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Mameushi-kun",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -14716,11 +13146,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece Film: Strong World - Episode 0",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Kaibutsu-kun: Kaibutsu Land e no Shoutai",
 			"tvdb_id": 184211,
 			"nsfw": false
@@ -14738,86 +13163,6 @@
 		{
 			"title": "Gekijouban Dr. Slump: Dr. Mashirito Abale-chan",
 			"tvdb_id": 75112,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Tobe! Tobe! Chibigon",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Tsumikijou no Himitsu",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Kyouryuu Nosshi no Daibouken",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Roll to Laura Ukigumojou no Himitsu",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Shabondama no Purun",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Gomira no Hoshi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Ningyohime no Namida",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Yuuki no Hana ga Hiraku Toki",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Soratobu Ehon to Glass no Kutsu",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Niji no Pyramid",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Lyrical Magical Mahou no Gakkou",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Yuureisen o Yattsukero!!",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Happy no Daibouken",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Tenohira o Taiyou ni",
-			"tvdb_id": 167921,
 			"nsfw": false
 		},
 		{
@@ -14848,46 +13193,6 @@
 		{
 			"title": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
 			"tvdb_id": 196231,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Hawaiian Suspense",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Wagahai wa Neko de Attari Osakana de Attari",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Hurricane! Henshin Shoujo Akane",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Koi no Stage = Heart on Fire! Haru wa Idol!",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Koi no Stage = Heart on Fire! Star Tanjou!",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Omoi Gakenai Situation",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road: Rouge no Dengon",
-			"tvdb_id": 78923,
-			"nsfw": false
-		},
-		{
-			"title": "Kimagure Orange Road (1985)",
-			"tvdb_id": 78923,
 			"nsfw": false
 		},
 		{
@@ -15151,106 +13456,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dokin-chan no Dokidoki Calendar",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Baikinman tai Baikinman!?",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Minna Atsumare! Anpanman World",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Kuroyuki-hime to Motemote Baikinman",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Horrorman to Hora Horako",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Kokin-chan to Aoi Namida",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Otanjoubi Series",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Omusubiman",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Tsukiko to Shiratama: Tokimeki Dancing",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Baikinman to 3-bai Punch",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Bokura wa Hero",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Minami no Umi o Sukue!",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Yakisobapanman to Black Sabotenman",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Anpanman to Okashi na Nakama",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Anpanman to Yukai na Nakama-tachi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Anpanman to Happy Otanjoubi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisoba Panman",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Tekka no Maki-chan to Kin no Kamameshidon",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "IGPX: Immortal Grand Prix",
 			"tvdb_id": 73011,
 			"nsfw": false
@@ -15273,21 +13478,6 @@
 		{
 			"title": "The Doraemons: Kaitou Dorapin Nazo no Chousenjou!",
 			"tvdb_id": 75141,
-			"nsfw": false
-		},
-		{
-			"title": "Dorami & Doraemons: Robot Gakkou Nanafushigi!?",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Dorami & Doraemons: Space Land Kiki Ippatsu!",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -15320,12 +13510,7 @@
 			"tvdb_id": 196231,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters: Best Wishes!",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Arakawa Under the Bridge 2",
 			"tvdb_id": 143271,
 			"nsfw": false
@@ -15348,16 +13533,6 @@
 		{
 			"title": "T.P. Sakura: Time Paladin Sakura",
 			"tvdb_id": 248584,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Case;Irvine",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Votoms Finder",
-			"tvdb_id": 90521,
 			"nsfw": false
 		},
 		{
@@ -15505,12 +13680,7 @@
 			"tvdb_id": 81797,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Best Wishes! - Victini to Kuroki Eiyuu Zekrom",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Kimi ni Todoke 2nd Season",
 			"tvdb_id": 117801,
 			"nsfw": false
@@ -15646,18 +13816,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Eiga Crayon Shin-chan: Arashi o Yobu Ougon no Spy Daisakusen",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Nekogami Yaoyorozu",
 			"tvdb_id": 249875,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Chinmoku no Quarter",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -15700,12 +13860,7 @@
 			"tvdb_id": 259964,
 			"nsfw": false
 		},
-		{
-			"title": "Pikachu no Fushigi na Fushigi na Daibouken",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Yuu Gi Ou! Zexal",
 			"tvdb_id": 248049,
 			"nsfw": false
@@ -15713,11 +13868,6 @@
 		{
 			"title": "Toriko (2011)",
 			"tvdb_id": 247231,
-			"nsfw": false
-		},
-		{
-			"title": "Tansu Warashi.",
-			"tvdb_id": 259863,
 			"nsfw": false
 		},
 		{
@@ -15758,11 +13908,6 @@
 		{
 			"title": "Senjou no Valkyria 3: Unrecorded Chronicles - Tagatame no Juusou",
 			"tvdb_id": 87851,
-			"nsfw": false
-		},
-		{
-			"title": "Naruto x UT",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -15971,16 +14116,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Kizuna Ichigeki",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Ojiisan no Lamp",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
 			"title": "Bannou Yasai Ninninman",
 			"tvdb_id": 259863,
 			"nsfw": false
@@ -16010,12 +14145,7 @@
 			"tvdb_id": 151281,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Best Wishes! - Victini to Shiroki Eiyuu Reshiram",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Sora no Otoshimono: Tokeijikake no Angeloid",
 			"tvdb_id": 118101,
 			"nsfw": false
@@ -16101,11 +14231,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gekijouban Naruto: Blood Prison",
-			"tvdb_id": 79824,
-			"nsfw": false
-		},
-		{
 			"title": "Mashiro-iro Symphony: The Color of Lovers",
 			"tvdb_id": 252477,
 			"nsfw": false
@@ -16121,16 +14246,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman Sukue! Kokorin to Kiseki no Hoshi",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
-			"title": "Utatte Teasobi! Anpanman to Mori no Takara",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Manyuu Hiken-chou",
 			"tvdb_id": 250363,
 			"nsfw": false
@@ -16138,11 +14253,6 @@
 		{
 			"title": "Scryed Alteration",
 			"tvdb_id": 78953,
-			"nsfw": false
-		},
-		{
-			"title": "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri",
-			"tvdb_id": 73532,
 			"nsfw": false
 		},
 		{
@@ -16201,11 +14311,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Tennis no Ouji-sama OVA Another Story II: Ano Toki no Bokura",
-			"tvdb_id": 73532,
-			"nsfw": false
-		},
-		{
 			"title": "Gekijouban Tennis no Ouji-sama: Eikoku Shiki Teikyuu Shiro Kessen!",
 			"tvdb_id": 73532,
 			"nsfw": false
@@ -16236,11 +14341,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Honoo no Chuunin Shiken! Naruto vs Konohamaru!!",
-			"tvdb_id": 79824,
-			"nsfw": false
-		},
-		{
 			"title": "Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Datte ba yo!!",
 			"tvdb_id": 79824,
 			"nsfw": false
@@ -16263,11 +14363,6 @@
 		{
 			"title": "Neko Ramen: Ore no Shoyu Aji",
 			"tvdb_id": 83479,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -16308,26 +14403,6 @@
 		{
 			"title": "Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?",
 			"tvdb_id": 220571,
-			"nsfw": false
-		},
-		{
-			"title": "Pukapuka Dudu",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Shiranpuri (2012)",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Buta",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Wasurenagumo",
-			"tvdb_id": 259863,
 			"nsfw": false
 		},
 		{
@@ -16381,11 +14456,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: London kara no Maru Hi Shirei",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Asobi ni Iku yo! Asobi ni Oide",
 			"tvdb_id": 173301,
 			"nsfw": false
@@ -16431,11 +14501,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan vs. Wooo",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Chihayafuru",
 			"tvdb_id": 251982,
 			"nsfw": false
@@ -16448,11 +14513,6 @@
 		{
 			"title": "Holy Knight",
 			"tvdb_id": 257746,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -16576,11 +14636,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Shin Tennis no Ouji-sama",
-			"tvdb_id": 73532,
-			"nsfw": false
-		},
-		{
 			"title": "Yuri Seijin Naoko-san (2012)",
 			"tvdb_id": 301205,
 			"nsfw": false
@@ -16661,11 +14716,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Nisemonogatari",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "High School DxD",
 			"tvdb_id": 254653,
 			"nsfw": false
@@ -16690,17 +14740,7 @@
 			"tvdb_id": 71160,
 			"nsfw": false
 		},
-		{
-			"title": "Pokemon 3D Adventure: Mew o Sagase!",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+						{
 			"title": "Code: Breaker",
 			"tvdb_id": 262093,
 			"nsfw": false
@@ -16776,11 +14816,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Chi no Kokuin - Eien no Mermaid",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Recorder to Ransel Do",
 			"tvdb_id": 254652,
 			"nsfw": false
@@ -16830,12 +14865,7 @@
 			"tvdb_id": 71279,
 			"nsfw": false
 		},
-		{
-			"title": "Pikachu no Summer Bridge Story",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Queen's Blade: Rebellion",
 			"tvdb_id": 87491,
 			"nsfw": false
@@ -16856,11 +14886,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece 3D: Gekisou! Trap Coaster",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "Hoshi no Kirby Pilot",
 			"tvdb_id": 71014,
 			"nsfw": false
@@ -16873,11 +14898,6 @@
 		{
 			"title": "Gekijouban Mahou Shoujo Madoka Magica",
 			"tvdb_id": 219181,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Crayon Shin-chan: Arashi o Yobu! Ora to Uchuu no Princess",
-			"tvdb_id": 79654,
 			"nsfw": false
 		},
 		{
@@ -16926,18 +14946,8 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: 11-ninme no Striker",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Date a Live",
 			"tvdb_id": 264663,
-			"nsfw": false
-		},
-		{
-			"title": "Dragon Ball: Episode of Bardock",
-			"tvdb_id": 81472,
 			"nsfw": false
 		},
 		{
@@ -16980,12 +14990,7 @@
 			"tvdb_id": 251047,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Best Wishes! - Kyurem vs Seikenshi Keldeo",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Hanasaku Iroha: Home Sweet Home",
 			"tvdb_id": 246521,
 			"nsfw": false
@@ -17108,11 +15113,6 @@
 		{
 			"title": "Kimi to Boku. 2",
 			"tvdb_id": 252467,
-			"nsfw": false
-		},
-		{
-			"title": "Arve Rezzle: Kikaijikake no Yousei-tachi",
-			"tvdb_id": 259863,
 			"nsfw": false
 		},
 		{
@@ -17261,11 +15261,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "One Piece Film: Z",
-			"tvdb_id": 81797,
-			"nsfw": false
-		},
-		{
 			"title": "The Big O (2003)",
 			"tvdb_id": 73988,
 			"nsfw": false
@@ -17396,11 +15391,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman: Yomigaere Bananajima",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Hagure Yuusha no Aesthetica",
 			"tvdb_id": 259649,
 			"nsfw": false
@@ -17425,19 +15415,9 @@
 			"tvdb_id": 257914,
 			"nsfw": false
 		},
-		{
-			"title": "Meloetta no Kirakira Recital",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Juusen Battle Monsuno",
 			"tvdb_id": 260070,
-			"nsfw": false
-		},
-		{
-			"title": "Road to Ninja: Naruto the Movie",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -17626,11 +15606,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Excalibur no Kiseki",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Sakura-sou no Pet na Kanojo",
 			"tvdb_id": 262114,
 			"nsfw": false
@@ -17658,16 +15633,6 @@
 		{
 			"title": "Senran Kagura",
 			"tvdb_id": 264053,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan Bonus File: Fantasista no Hana",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Monogatari Series: Second Season",
-			"tvdb_id": 102261,
 			"nsfw": false
 		},
 		{
@@ -17720,12 +15685,7 @@
 			"tvdb_id": 262109,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters: Best Wishes! Season 2",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Girls und Panzer",
 			"tvdb_id": 262098,
 			"nsfw": false
@@ -17793,11 +15753,6 @@
 		{
 			"title": "Little Witch Academia",
 			"tvdb_id": 318161,
-			"nsfw": false
-		},
-		{
-			"title": "Ryo",
-			"tvdb_id": 259863,
 			"nsfw": false
 		},
 		{
@@ -17880,12 +15835,7 @@
 			"tvdb_id": 264056,
 			"nsfw": false
 		},
-		{
-			"title": "Utae Meloetta: Rinka no Mi o Sagase",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Hayate no Gotoku! Can't Take My Eyes Off You",
 			"tvdb_id": 80554,
 			"nsfw": false
@@ -17956,16 +15906,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Dragon Ball Z: Kami to Kami",
-			"tvdb_id": 81472,
-			"nsfw": false
-		},
-		{
-			"title": "Eiga Doraemon: Nobita no Himitsu Dougu Museum",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Tai Chi Chasers",
 			"tvdb_id": 257321,
 			"nsfw": false
@@ -18031,11 +15971,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Fifth Stage",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Aikatsu! Idol Katsudou!",
 			"tvdb_id": 263310,
 			"nsfw": false
@@ -18093,11 +16028,6 @@
 		{
 			"title": "Ichigeki Sacchuu!! Hoihoi-san: Legacy",
 			"tvdb_id": 138631,
-			"nsfw": false
-		},
-		{
-			"title": "Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare",
-			"tvdb_id": 79895,
 			"nsfw": false
 		},
 		{
@@ -18191,11 +16121,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gintama' (2012)",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
 			"title": "Gokicha!! Cockroach Girls",
 			"tvdb_id": 262663,
 			"nsfw": false
@@ -18241,11 +16166,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Nekomonogatari (Kuro): Tsubasa Family",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "Saint Onii-san",
 			"tvdb_id": 267754,
 			"nsfw": false
@@ -18258,11 +16178,6 @@
 		{
 			"title": "Saint Onii-san (2012)",
 			"tvdb_id": 267754,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Touhou Kenbunroku - Another Page",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -18351,11 +16266,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Sore Ike! Anpanman: Outa to Teasobi Tanoshii ne",
-			"tvdb_id": 167921,
-			"nsfw": false
-		},
-		{
 			"title": "Bakumatsu Gijinden Roman",
 			"tvdb_id": 264529,
 			"nsfw": false
@@ -18368,11 +16278,6 @@
 		{
 			"title": "Asako Get You!!",
 			"tvdb_id": 259655,
-			"nsfw": false
-		},
-		{
-			"title": "Meitantei Conan: Zekkai no Private Eye",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -18446,11 +16351,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Doraemon: Nobita to Mirai Note",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi",
 			"tvdb_id": 266581,
 			"nsfw": false
@@ -18500,17 +16400,7 @@
 			"tvdb_id": 267620,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Best Wishes! - Shinsoku no Genosect: Mewtwo Kakusei",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachuu to Eievui Friends",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+						{
 			"title": "Line Offline Salaryman",
 			"tvdb_id": 265988,
 			"nsfw": false
@@ -18558,11 +16448,6 @@
 		{
 			"title": "Mirai Nikki Redial: Data Ikou",
 			"tvdb_id": 249827,
-			"nsfw": false
-		},
-		{
-			"title": "The Last: Naruto the Movie",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -18625,12 +16510,7 @@
 			"tvdb_id": 81110,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters: Best Wishes! Season 2 - Episode N",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Chokkyuu Hyoudai Robot Anime: Straight Title",
 			"tvdb_id": 266840,
 			"nsfw": false
@@ -18718,11 +16598,6 @@
 		{
 			"title": "Cyclops Shoujo Saipuu",
 			"tvdb_id": 268060,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
-			"tvdb_id": 167921,
 			"nsfw": false
 		},
 		{
@@ -18820,12 +16695,7 @@
 			"tvdb_id": 256705,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Daitoshokan no Hitsujikai",
 			"tvdb_id": 283931,
 			"nsfw": false
@@ -18986,41 +16856,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei vs. Meitantei Conan The Movie",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Woodo",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Kummen",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Quaint",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms: Sunsa",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms Vol. I: Stories of the \"AT Votoms\"",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
-			"title": "Soukou Kihei Votoms Vol. II: Highlights from the \"AT Votoms\"",
-			"tvdb_id": 90521,
-			"nsfw": false
-		},
-		{
 			"title": "IS: Infinite Stratos 2",
 			"tvdb_id": 219131,
 			"nsfw": false
@@ -19060,12 +16895,7 @@
 			"tvdb_id": 146401,
 			"nsfw": false
 		},
-		{
-			"title": "TV-ban Pocket Monsters Special Masara Town Hen Soushuuhen",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Kamisama Hajimemashita (2013)",
 			"tvdb_id": 262106,
 			"nsfw": false
@@ -19175,12 +17005,7 @@
 			"tvdb_id": 275610,
 			"nsfw": false
 		},
-		{
-			"title": "Mewtwo: Kakusei e no Prologue",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Love Live! School Idol Project (2014)",
 			"tvdb_id": 264533,
 			"nsfw": false
@@ -19203,11 +17028,6 @@
 		{
 			"title": "Date a Live II",
 			"tvdb_id": 264663,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Ikka Seizoroi",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -19235,12 +17055,7 @@
 			"tvdb_id": 275613,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters XY",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Gundam Build Fighters",
 			"tvdb_id": 273004,
 			"nsfw": false
@@ -19286,11 +17101,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Eiga Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
-			"tvdb_id": 252696,
-			"nsfw": false
-		},
-		{
 			"title": "Fate/Stay Night: Unlimited Blade Works (2014)",
 			"tvdb_id": 278626,
 			"nsfw": false
@@ -19313,11 +17123,6 @@
 		{
 			"title": "Ansatsu Kyoushitsu",
 			"tvdb_id": 283947,
-			"nsfw": false
-		},
-		{
-			"title": "Shin Gekijouban Initial D",
-			"tvdb_id": 70900,
 			"nsfw": false
 		},
 		{
@@ -19411,11 +17216,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Sword Art Online: Extra Edition",
 			"tvdb_id": 259640,
 			"nsfw": false
@@ -19461,21 +17261,11 @@
 			"nsfw": false
 		},
 		{
-			"title": "Hanamonogatari: Suruga Devil",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "Hybrid Child",
 			"tvdb_id": 284795,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters: Best Wishes! Hikari to Kage no Tenkyuugi",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Hi no Tori: Kizuna Hen",
 			"tvdb_id": 98161,
 			"nsfw": false
@@ -19596,26 +17386,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Parol no Miraijima",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Ookii 1 Nensei to Chiisana 2 Nensei",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Chronus",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
-			"title": "Harmonie",
-			"tvdb_id": 259863,
-			"nsfw": false
-		},
-		{
 			"title": "Onee-chan ga Kita",
 			"tvdb_id": 275625,
 			"nsfw": false
@@ -19683,11 +17453,6 @@
 		{
 			"title": "Wake Up, Girls! Shichinin no Idol",
 			"tvdb_id": 275609,
-			"nsfw": false
-		},
-		{
-			"title": "Stand By Me Doraemon",
-			"tvdb_id": 252696,
 			"nsfw": false
 		},
 		{
@@ -19761,11 +17526,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Ijigen no Sniper",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Buddy Complex",
 			"tvdb_id": 276777,
 			"nsfw": false
@@ -19800,17 +17560,7 @@
 			"tvdb_id": 280853,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters XY: Hakai no Mayu to Diancie",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
-			"title": "Pikachu, Kore Nan no Kagi?",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+						{
 			"title": "Uchuu Kyoudai: Number Zero",
 			"tvdb_id": 256705,
 			"nsfw": false
@@ -19883,11 +17633,6 @@
 		{
 			"title": "Kenzen Robo Daimidaler",
 			"tvdb_id": 278262,
-			"nsfw": false
-		},
-		{
-			"title": "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan",
-			"tvdb_id": 72454,
 			"nsfw": false
 		},
 		{
@@ -19978,11 +17723,6 @@
 		{
 			"title": "Futsuu no Joshikousei ga [Locodol] Yattemita.",
 			"tvdb_id": 279040,
-			"nsfw": false
-		},
-		{
-			"title": "Yorinuki Gintama-san on Theater 2D",
-			"tvdb_id": 79895,
 			"nsfw": false
 		},
 		{
@@ -20121,11 +17861,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Initial D Final Stage",
-			"tvdb_id": 70900,
-			"nsfw": false
-		},
-		{
 			"title": "Francesca",
 			"tvdb_id": 279979,
 			"nsfw": false
@@ -20201,11 +17936,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Zankyou no Terror",
 			"tvdb_id": 279986,
 			"nsfw": false
@@ -20260,12 +17990,7 @@
 			"tvdb_id": 282688,
 			"nsfw": false
 		},
-		{
-			"title": "Pocket Monsters XY: Mega Evolution",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "D-Frag! OAD",
 			"tvdb_id": 276050,
 			"nsfw": false
@@ -20308,11 +18033,6 @@
 		{
 			"title": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe",
 			"tvdb_id": 264522,
-			"nsfw": false
-		},
-		{
-			"title": "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
-			"tvdb_id": 167921,
 			"nsfw": false
 		},
 		{
@@ -20856,11 +18576,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Dai Shuugeki",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Aldnoah.Zero (2015)",
 			"tvdb_id": 279827,
 			"nsfw": false
@@ -20931,11 +18646,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Lupin Sansei (2015)",
-			"tvdb_id": 71863,
-			"nsfw": false
-		},
-		{
 			"title": "Senran Kagura: Estival Versus - Mizugi Darake no Zen'yasai",
 			"tvdb_id": 264053,
 			"nsfw": false
@@ -20958,11 +18668,6 @@
 		{
 			"title": "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA",
 			"tvdb_id": 250088,
-			"nsfw": false
-		},
-		{
-			"title": "Tsukimonogatari: Yotsugi Doll",
-			"tvdb_id": 102261,
 			"nsfw": false
 		},
 		{
@@ -21033,11 +18738,6 @@
 		{
 			"title": "Trinity Seven: Nanatsu no Taizai to Nana Madoushi",
 			"tvdb_id": 283935,
-			"nsfw": false
-		},
-		{
-			"title": "Gintama' (2014)",
-			"tvdb_id": 79895,
 			"nsfw": false
 		},
 		{
@@ -21136,11 +18836,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Meitantei Conan: Gouka no Himawari",
-			"tvdb_id": 72454,
-			"nsfw": false
-		},
-		{
 			"title": "Haikyuu!! (2014)",
 			"tvdb_id": 278157,
 			"nsfw": false
@@ -21163,11 +18858,6 @@
 		{
 			"title": "Shouwa Genroku Rakugo Shinjuu (2016)",
 			"tvdb_id": 304316,
-			"nsfw": false
-		},
-		{
-			"title": "Boruto: Naruto the Movie",
-			"tvdb_id": 79824,
 			"nsfw": false
 		},
 		{
@@ -21261,11 +18951,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gintama (2015)",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
 			"title": "Ame-iro Cocoa",
 			"tvdb_id": 293647,
 			"nsfw": false
@@ -21353,11 +19038,6 @@
 		{
 			"title": "Ushio to Tora (2015)",
 			"tvdb_id": 294001,
-			"nsfw": false
-		},
-		{
-			"title": "Saint Seiya: Soul of Gold",
-			"tvdb_id": 72775,
 			"nsfw": false
 		},
 		{
@@ -21711,11 +19391,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "City Hunter: Ryou no Propose",
-			"tvdb_id": 72877,
-			"nsfw": false
-		},
-		{
 			"title": "Suzakinishi The Animation",
 			"tvdb_id": 297314,
 			"nsfw": false
@@ -21871,11 +19546,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Owarimonogatari",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "Imouto sae Ireba Ii.",
 			"tvdb_id": 332994,
 			"nsfw": false
@@ -22013,11 +19683,6 @@
 		{
 			"title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
 			"tvdb_id": 295205,
-			"nsfw": false
-		},
-		{
-			"title": "One Piece Film: Gold",
-			"tvdb_id": 81797,
 			"nsfw": false
 		},
 		{
@@ -22326,11 +19991,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Eiga Crayon Shin-chan: Bakusui! Yumemi World Dai Totsugeki",
-			"tvdb_id": 79654,
-			"nsfw": false
-		},
-		{
 			"title": "Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi",
 			"tvdb_id": 297315,
 			"nsfw": false
@@ -22491,11 +20151,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Koyomimonogatari",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "Shokugeki no Souma: Ni no Sara",
 			"tvdb_id": 289909,
 			"nsfw": false
@@ -22513,11 +20168,6 @@
 		{
 			"title": "Concrete Revolutio: Choujin Gensou - The Last Song",
 			"tvdb_id": 299491,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Italian Game",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -22543,11 +20193,6 @@
 		{
 			"title": "D.Gray-man Hallow",
 			"tvdb_id": 312878,
-			"nsfw": false
-		},
-		{
-			"title": "Gintama (2016)",
-			"tvdb_id": 79895,
 			"nsfw": false
 		},
 		{
@@ -23561,11 +21206,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Gintama.",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
 			"title": "Sagrada Reset",
 			"tvdb_id": 320169,
 			"nsfw": false
@@ -23835,12 +21475,7 @@
 			"tvdb_id": 327597,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Kimi ni Kimeta!",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Shoukoku no Altair",
 			"tvdb_id": 328001,
 			"nsfw": false
@@ -24226,11 +21861,6 @@
 			"nsfw": false
 		},
 		{
-			"title": "Owarimonogatari (2017)",
-			"tvdb_id": 102261,
-			"nsfw": false
-		},
-		{
 			"title": "Uma Musume: Pretty Derby",
 			"tvdb_id": 344220,
 			"nsfw": false
@@ -24478,16 +22108,6 @@
 		{
 			"title": "SSSS.Gridman",
 			"tvdb_id": 349418,
-			"nsfw": false
-		},
-		{
-			"title": "Gintama. (2017)",
-			"tvdb_id": 79895,
-			"nsfw": false
-		},
-		{
-			"title": "Lupin Sansei: Part 5",
-			"tvdb_id": 71863,
 			"nsfw": false
 		},
 		{
@@ -24955,12 +22575,7 @@
 			"tvdb_id": 278626,
 			"nsfw": false
 		},
-		{
-			"title": "Gekijouban Pocket Monsters: Minna no Monogatari",
-			"tvdb_id": 76703,
-			"nsfw": false
-		},
-		{
+				{
 			"title": "Captain Tsubasa (2018)",
 			"tvdb_id": 339203,
 			"nsfw": false
@@ -25193,11 +22808,6 @@
 		{
 			"title": "Muhyo to Roji no Mahouritsu Soudan Jimusho",
 			"tvdb_id": 347467,
-			"nsfw": false
-		},
-		{
-			"title": "Gintama. (2018)",
-			"tvdb_id": 79895,
 			"nsfw": false
 		},
 		{
