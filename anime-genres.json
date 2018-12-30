@@ -1,0 +1,224 @@
+{
+	"genres": [
+		{
+			"name": "Action",
+			"mal_genre_id": 1,
+			"nsfw": false
+		},
+		{
+			"name": "Adventure",
+			"mal_genre_id": 2,
+			"nsfw": false
+		},
+		{
+			"name": "Cars",
+			"mal_genre_id": 3,
+			"nsfw": false
+		},
+		{
+			"name": "Comedy",
+			"mal_genre_id": 4,
+			"nsfw": false
+		},
+		{
+			"name": "Dementia",
+			"mal_genre_id": 5,
+			"nsfw": false
+		},
+		{
+			"name": "Demons",
+			"mal_genre_id": 6,
+			"nsfw": false
+		},
+		{
+			"name": "Drama",
+			"mal_genre_id": 8,
+			"nsfw": false
+		},
+		{
+			"name": "Ecchi",
+			"mal_genre_id": 9,
+			"nsfw": true
+		},
+		{
+			"name": "Fantasy",
+			"mal_genre_id": 10,
+			"nsfw": false
+		},
+		{
+			"name": "Game",
+			"mal_genre_id": 11,
+			"nsfw": false
+		},
+		{
+			"name": "Harem",
+			"mal_genre_id": 35,
+			"nsfw": true
+		},
+		{
+			"name": "Hentai",
+			"mal_genre_id": 12,
+			"nsfw": true
+		},
+		{
+			"name": "Historical",
+			"mal_genre_id": 13,
+			"nsfw": false
+		},
+		{
+			"name": "Horror",
+			"mal_genre_id": 14,
+			"nsfw": false
+		},
+		{
+			"name": "Historical",
+			"mal_genre_id": 13,
+			"nsfw": false
+		},
+		{
+			"name": "Josei",
+			"mal_genre_id": 43,
+			"nsfw": false
+		},
+		{
+			"name": "Kids",
+			"mal_genre_id": 15,
+			"nsfw": false
+		},
+		{
+			"name": "Magic",
+			"mal_genre_id": 16,
+			"nsfw": false
+		},
+		{
+			"name": "Martial Arts",
+			"mal_genre_id": 17,
+			"nsfw": false
+		},
+		{
+			"name": "Mecha",
+			"mal_genre_id": 18,
+			"nsfw": false
+		},
+		{
+			"name": "Military",
+			"mal_genre_id": 38,
+			"nsfw": false
+		},
+		{
+			"name": "Music",
+			"mal_genre_id": 19,
+			"nsfw": false
+		},
+		{
+			"name": "Mystery",
+			"mal_genre_id": 7,
+			"nsfw": false
+		},
+		{
+			"name": "Parody",
+			"mal_genre_id": 20,
+			"nsfw": false
+		},
+		{
+			"name": "Police",
+			"mal_genre_id": 39,
+			"nsfw": false
+		},
+		{
+			"name": "Psychological",
+			"mal_genre_id": 40,
+			"nsfw": false
+		},
+		{
+			"name": "Romance",
+			"mal_genre_id": 22,
+			"nsfw": false
+		},
+		{
+			"name": "Samurai",
+			"mal_genre_id": 21,
+			"nsfw": false
+		},
+		{
+			"name": "School",
+			"mal_genre_id": 23,
+			"nsfw": false
+		},
+		{
+			"name": "Sci-Fi",
+			"mal_genre_id": 24,
+			"nsfw": false
+		},
+		{
+			"name": "Seinen",
+			"mal_genre_id": 42,
+			"nsfw": false
+		},
+		{
+			"name": "Shoujo",
+			"mal_genre_id": 25,
+			"nsfw": false
+		},
+		{
+			"name": "Shoujo Ai",
+			"mal_genre_id": 26,
+			"nsfw": false
+		},
+		{
+			"name": "Shounen",
+			"mal_genre_id": 27,
+			"nsfw": false
+		},
+		{
+			"name": "Shounen Ai",
+			"mal_genre_id": 28,
+			"nsfw": false
+		},
+		{
+			"name": "Slice of Life",
+			"mal_genre_id": 36,
+			"nsfw": false
+		},
+		{
+			"name": "Space",
+			"mal_genre_id": 29,
+			"nsfw": false
+		},
+		{
+			"name": "Sports",
+			"mal_genre_id": 30,
+			"nsfw": false
+		},
+		{
+			"name": "Super Power",
+			"mal_genre_id": 31,
+			"nsfw": false
+		},
+		{
+			"name": "Supernatural",
+			"mal_genre_id": 37,
+			"nsfw": false
+		},
+		{
+			"name": "Thriller",
+			"mal_genre_id": 41,
+			"nsfw": false
+		},
+		{
+			"name": "Vampire",
+			"mal_genre_id": 32,
+			"nsfw": false
+		},
+		{
+			"name": "Yaoi",
+			"mal_genre_id": 33,
+			"nsfw": false
+		},
+		{
+			"name": "Yuri",
+			"mal_genre_id": 34,
+			"nsfw": false
+		}
+	]
+}
