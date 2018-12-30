@@ -71,11 +71,6 @@
 			"nsfw": false
 		},
 		{
-			"name": "Historical",
-			"mal_genre_id": 13,
-			"nsfw": false
-		},
-		{
 			"name": "Josei",
 			"mal_genre_id": 43,
 			"nsfw": false
