@@ -4,258 +4,344 @@
 			"name": "Action",
 			"description": "An action story is similar to adventure, and the protagonist usually takes a risky turn, which leads to desperate situations (including explosions, fight scenes, daring escapes, etc.).",
 			"mal_genre_id": 1,
+			"color": "#FF9F0A",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/action.png",
 			"nsfw": false
 		},
 		{
 			"name": "Adventure",
 			"description": "An adventure story is about a protagonist who journeys to epic or distant places to accomplish something.",
 			"mal_genre_id": 2,
+			"color": "#4A90E2",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/adventure.png",
 			"nsfw": false
 		},
 		{
 			"name": "Cars",
 			"description": "Stories that feature cars at the center of attention or involve racing.",
 			"mal_genre_id": 3,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Comedy",
 			"description": "Comedy is a story that tells about a series of funny, or comical events, intended to make the audience laugh.",
 			"mal_genre_id": 4,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Dementia",
 			"description": "Dementia describes a set of symptoms that may include memory loss and difficulties with thinking, problem-solving or language.",
 			"mal_genre_id": 5,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Demons",
 			"description": "Demons are supernatural and often malevolent being prevalent in religion, occultism, literature, fiction, mythology and folklore.",
 			"mal_genre_id": 6,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Drama",
 			"description": "Drama is a type of narrative fiction (or semi-fiction) intended to be more serious than humorous in tone, focusing on in-depth development of realistic characters who must deal with realistic emotional struggles.",
 			"mal_genre_id": 8,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Ecchi",
 			"description": "Ecchi is an often used slang term in the Japanese language for playfully sexual actions. As an adjective, it is used with the meaning of \"sexy\", \"dirty\" or \"naughty\".",
 			"mal_genre_id": 9,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": true
 		},
 		{
 			"name": "Fantasy",
 			"description": "A fantasy story is about magic or supernatural forces, rather than technology (as science fiction) if it happens to take place in a modern or future era.",
 			"mal_genre_id": 10,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Game",
 			"description": "Stories that feature games at the center of attention or involve gaming.",
 			"mal_genre_id": 11,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Harem",
 			"description": "Harem is an emphasis on polygamous or love triangle relationships characterized by a protagonist surrounded amorously by three or more members of either the same or opposing gender, sex or love interests.",
 			"mal_genre_id": 35,
+			"color": "#DC143C",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/harem.png",
 			"nsfw": true
 		},
 		{
 			"name": "Hentai",
 			"description": "Anime that have pornography at the center of attention.",
 			"mal_genre_id": 12,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": true
 		},
 		{
 			"name": "Historical",
 			"description": "Stories focused on characters or happenings of the past.",
 			"mal_genre_id": 13,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Horror",
 			"description": "A horror story is told to deliberately scare or frighten the audience, through suspense, violence or shock.",
 			"mal_genre_id": 14,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Josei",
 			"description": "Josei are mostly related to women’s universe, tastes, and vision of the world.",
 			"mal_genre_id": 43,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Kids",
 			"description": "Stories that are generally enjoyed by children.",
 			"mal_genre_id": 15,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Magic",
 			"description": "Stories where abnormal events such as levitation, telekinesis and talking with the dead take place.",
 			"mal_genre_id": 16,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Martial Arts",
 			"description": "Stories that portray fighting and the practicing of martial arts.",
 			"mal_genre_id": 17,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Mecha",
 			"description": "Mecha refers to both scientific ideas and science fiction stories that center on giant robots or machines controlled by people.",
 			"mal_genre_id": 18,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Military",
 			"description": "Stories that involve militaries or war.",
 			"mal_genre_id": 38,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Music",
 			"description": null,
 			"mal_genre_id": 19,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Mystery",
 			"description": null,
 			"mal_genre_id": 7,
+			"color": "#8B572A",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/mystery.png",
 			"nsfw": false
 		},
 		{
 			"name": "Parody",
 			"description": null,
 			"mal_genre_id": 20,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Police",
 			"description": null,
 			"mal_genre_id": 39,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Psychological",
 			"description": null,
 			"mal_genre_id": 40,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Romance",
 			"description": "Emotion-driven stories that are primarily focused on the relationship between the main characters of the story. Beyond the focus on the relationship, the biggest defining characteristic of the romance genre is that a happy ending is always guaranteed.",
 			"mal_genre_id": 22,
+			"color": "#E654B3",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/romance.png",
 			"nsfw": false
 		},
 		{
 			"name": "Samurai",
 			"description": null,
 			"mal_genre_id": 21,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "School",
 			"description": null,
 			"mal_genre_id": 23,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Sci-Fi",
 			"description": null,
 			"mal_genre_id": 24,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Seinen",
 			"description": null,
 			"mal_genre_id": 42,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Shoujo",
 			"description": null,
 			"mal_genre_id": 25,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Shoujo Ai",
 			"description": null,
 			"mal_genre_id": 26,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Shounen",
 			"description": null,
 			"mal_genre_id": 27,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Shounen Ai",
 			"description": null,
 			"mal_genre_id": 28,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Slice of Life",
 			"description": "The slice of life category of story is a story that portrays a \"cut-out\" sequence of events in a character's life. It may or may not contain any plot progress and little character development, and often has no exposition, conflict, or dénouement, with an open ending.",
 			"mal_genre_id": 36,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Space",
 			"description": null,
 			"mal_genre_id": 29,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Sports",
 			"description": null,
 			"mal_genre_id": 30,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Super Power",
 			"description": null,
 			"mal_genre_id": 31,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Supernatural",
 			"description": null,
 			"mal_genre_id": 37,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Thriller",
 			"description": null,
 			"mal_genre_id": 41,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Vampire",
 			"description": null,
 			"mal_genre_id": 32,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Yaoi",
 			"description": null,
 			"mal_genre_id": 33,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Yuri",
 			"description": null,
 			"mal_genre_id": 34,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		}
 	]
