@@ -347,7 +347,7 @@
 		{
 			"name": "Travel",
 			"description": null,
-			"mal_genre_id": 34,
+			"mal_genre_id": null,
 			"color": "#34bbfa",
 			"symbol": null,
 			"nsfw": false
