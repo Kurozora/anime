@@ -343,6 +343,14 @@
 			"color": "#ffffff",
 			"symbol": null,
 			"nsfw": false
+		},
+		{
+			"name": "Travel",
+			"description": null,
+			"mal_genre_id": 34,
+			"color": "#34bbfa",
+			"symbol": null,
+			"nsfw": false
 		}
 	]
 }
