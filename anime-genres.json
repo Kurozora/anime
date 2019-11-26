@@ -4,7 +4,7 @@
 			"name": "Action",
 			"description": "An action story is similar to adventure, and the protagonist usually takes a risky turn, which leads to desperate situations (including explosions, fight scenes, daring escapes, etc.).",
 			"mal_genre_id": 1,
-			"color": "#FF9F0A",
+			"color": "#FFE4B9",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/action.png",
 			"nsfw": false
 		},
@@ -12,7 +12,7 @@
 			"name": "Adventure",
 			"description": "An adventure story is about a protagonist who journeys to epic or distant places to accomplish something.",
 			"mal_genre_id": 2,
-			"color": "#4A90E2",
+			"color": "#B8EBFF",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/adventure.png",
 			"nsfw": false
 		},
