@@ -12,7 +12,7 @@
 			"name": "Adventure",
 			"description": "An adventure story is about a protagonist who journeys to epic or distant places to accomplish something.",
 			"mal_genre_id": 2,
-			"color": "#B8EBFF",
+			"color": "#CAF0FF",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/adventure.png",
 			"nsfw": false
 		},
@@ -20,16 +20,16 @@
 			"name": "Cars",
 			"description": "Stories that feature cars at the center of attention or involve racing.",
 			"mal_genre_id": 3,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#FFB3BC",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/cars.png",
 			"nsfw": false
 		},
 		{
 			"name": "Comedy",
 			"description": "Comedy is a story that tells about a series of funny, or comical events, intended to make the audience laugh.",
 			"mal_genre_id": 4,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#FFEFB5",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/comedy.png",
 			"nsfw": false
 		},
 		{
@@ -204,7 +204,7 @@
 			"name": "Romance",
 			"description": "Emotion-driven stories that are primarily focused on the relationship between the main characters of the story. Beyond the focus on the relationship, the biggest defining characteristic of the romance genre is that a happy ending is always guaranteed.",
 			"mal_genre_id": 22,
-			"color": "#E654B3",
+			"color": "#FFB4E5",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/romance.png",
 			"nsfw": false
 		},
