@@ -5,7 +5,7 @@
 			"description": "An action story is similar to adventure, and the protagonist usually takes a risky turn, which leads to desperate situations (including explosions, fight scenes, daring escapes, etc.).",
 			"mal_genre_id": 1,
 			"color": "#FFE4B9",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/action.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Action.png",
 			"nsfw": false
 		},
 		{
@@ -13,7 +13,7 @@
 			"description": "An adventure story is about a protagonist who journeys to epic or distant places to accomplish something.",
 			"mal_genre_id": 2,
 			"color": "#CAF0FF",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/adventure.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Adventure.png",
 			"nsfw": false
 		},
 		{
@@ -21,7 +21,7 @@
 			"description": "Stories that feature cars at the center of attention or involve racing.",
 			"mal_genre_id": 3,
 			"color": "#FFB3BC",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/cars.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Cars.png",
 			"nsfw": false
 		},
 		{
@@ -29,15 +29,15 @@
 			"description": "Comedy is a story that tells about a series of funny, or comical events, intended to make the audience laugh.",
 			"mal_genre_id": 4,
 			"color": "#FFEFB5",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/comedy.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Comedy.png",
 			"nsfw": false
 		},
 		{
 			"name": "Dementia",
-			"description": "Dementia describes a set of symptoms that may include memory loss and difficulties with thinking, problem-solving or language.",
+			"description": "Dementia describes stories that have mind-twisting plots.",
 			"mal_genre_id": 5,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#CEFF9D",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Dementia.png",
 			"nsfw": false
 		},
 		{
@@ -85,7 +85,7 @@
 			"description": "Harem is an emphasis on polygamous or love triangle relationships characterized by a protagonist surrounded amorously by three or more members of either the same or opposing gender, sex or love interests.",
 			"mal_genre_id": 35,
 			"color": "#DC143C",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/harem.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Harem.png",
 			"nsfw": true
 		},
 		{
@@ -164,16 +164,16 @@
 			"name": "Music",
 			"description": null,
 			"mal_genre_id": 19,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#D2A2FC",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Music.png",
 			"nsfw": false
 		},
 		{
 			"name": "Mystery",
 			"description": null,
 			"mal_genre_id": 7,
-			"color": "#8B572A",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/mystery.png",
+			"color": "#8D6E53",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Mystery.png",
 			"nsfw": false
 		},
 		{
@@ -205,7 +205,7 @@
 			"description": "Emotion-driven stories that are primarily focused on the relationship between the main characters of the story. Beyond the focus on the relationship, the biggest defining characteristic of the romance genre is that a happy ending is always guaranteed.",
 			"mal_genre_id": 22,
 			"color": "#FFB4E5",
-			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/romance.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Romance.png",
 			"nsfw": false
 		},
 		{
