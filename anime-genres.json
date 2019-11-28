@@ -20,7 +20,7 @@
 			"name": "Cars",
 			"description": "Stories that feature cars at the center of attention or involve racing.",
 			"mal_genre_id": 3,
-			"color": "#FFB3BC",
+			"color": "#C5C5C5",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Cars.png",
 			"nsfw": false
 		},
@@ -36,7 +36,7 @@
 			"name": "Dementia",
 			"description": "Dementia describes stories that have mind-twisting plots.",
 			"mal_genre_id": 5,
-			"color": "#CEFF9D",
+			"color": "#CA9BD0",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Dementia.png",
 			"nsfw": false
 		},
@@ -44,16 +44,16 @@
 			"name": "Demons",
 			"description": "Demons are supernatural and often malevolent being prevalent in religion, occultism, literature, fiction, mythology and folklore.",
 			"mal_genre_id": 6,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#779ECB",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Demons.png",
 			"nsfw": false
 		},
 		{
 			"name": "Drama",
 			"description": "Drama is a type of narrative fiction (or semi-fiction) intended to be more serious than humorous in tone, focusing on in-depth development of realistic characters who must deal with realistic emotional struggles.",
 			"mal_genre_id": 8,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#A09FF",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Drama.png",
 			"nsfw": false
 		},
 		{
@@ -68,16 +68,16 @@
 			"name": "Fantasy",
 			"description": "A fantasy story is about magic or supernatural forces, rather than technology (as science fiction) if it happens to take place in a modern or future era.",
 			"mal_genre_id": 10,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#CEFF9D",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Fantasy.png",
 			"nsfw": false
 		},
 		{
 			"name": "Game",
 			"description": "Stories that feature games at the center of attention or involve gaming.",
 			"mal_genre_id": 11,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#FF99B7",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Game.png",
 			"nsfw": false
 		},
 		{
