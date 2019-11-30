@@ -44,7 +44,7 @@
 			"name": "Demons",
 			"description": "Demons are supernatural and often malevolent being prevalent in religion, occultism, literature, fiction, mythology and folklore.",
 			"mal_genre_id": 6,
-			"color": "#779ECB",
+			"color": "#99B6D8",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Demons.png",
 			"nsfw": false
 		},
@@ -52,7 +52,7 @@
 			"name": "Drama",
 			"description": "Drama is a type of narrative fiction (or semi-fiction) intended to be more serious than humorous in tone, focusing on in-depth development of realistic characters who must deal with realistic emotional struggles.",
 			"mal_genre_id": 8,
-			"color": "#A09FF",
+			"color": "#B7B0FF",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Drama.png",
 			"nsfw": false
 		},
@@ -100,48 +100,48 @@
 			"name": "Historical",
 			"description": "Stories focused on characters or happenings of the past.",
 			"mal_genre_id": 13,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#9A8666",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Historical.png",
 			"nsfw": false
 		},
 		{
 			"name": "Horror",
 			"description": "A horror story is told to deliberately scare or frighten the audience, through suspense, violence or shock.",
 			"mal_genre_id": 14,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#262626",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Horror.png",
 			"nsfw": false
 		},
 		{
 			"name": "Josei",
 			"description": "Josei are mostly related to women’s universe, tastes, and vision of the world.",
 			"mal_genre_id": 43,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#FFB4D2",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Josei.png",
 			"nsfw": false
 		},
 		{
 			"name": "Kids",
 			"description": "Stories that are generally enjoyed by children.",
 			"mal_genre_id": 15,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#FFFABD",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Kids.png",
 			"nsfw": false
 		},
 		{
 			"name": "Magic",
 			"description": "Stories where abnormal events such as levitation, telekinesis and talking with the dead take place.",
 			"mal_genre_id": 16,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#B2A4D3",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Magic.png",
 			"nsfw": false
 		},
 		{
 			"name": "Martial Arts",
 			"description": "Stories that portray fighting and the practicing of martial arts.",
 			"mal_genre_id": 17,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#E6997F",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Martial Arts.png",
 			"nsfw": false
 		},
 		{
