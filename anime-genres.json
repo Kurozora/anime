@@ -148,16 +148,16 @@
 			"name": "Mecha",
 			"description": "Mecha refers to both scientific ideas and science fiction stories that center on giant robots or machines controlled by people.",
 			"mal_genre_id": 18,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#E3E3E3",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Mecha.png",
 			"nsfw": false
 		},
 		{
 			"name": "Military",
 			"description": "Stories that involve militaries or war.",
 			"mal_genre_id": 38,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#9A9778",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Military.png",
 			"nsfw": false
 		},
 		{
@@ -180,24 +180,24 @@
 			"name": "Parody",
 			"description": null,
 			"mal_genre_id": 20,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#CAE4FF",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Parody.png",
 			"nsfw": false
 		},
 		{
 			"name": "Police",
 			"description": null,
 			"mal_genre_id": 39,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#5786CE",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Police.png",
 			"nsfw": false
 		},
 		{
 			"name": "Psychological",
 			"description": null,
 			"mal_genre_id": 40,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#6E6E6E",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Psychological.png",
 			"nsfw": false
 		},
 		{
@@ -212,16 +212,16 @@
 			"name": "Samurai",
 			"description": null,
 			"mal_genre_id": 21,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#C6D5B4",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Samurai.png",
 			"nsfw": false
 		},
 		{
 			"name": "School",
 			"description": null,
 			"mal_genre_id": 23,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#66CDCD",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/School.png",
 			"nsfw": false
 		},
 		{
