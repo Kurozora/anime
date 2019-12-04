@@ -228,8 +228,8 @@
 			"name": "Sci-Fi",
 			"description": null,
 			"mal_genre_id": 24,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#978080",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Sci-Fi.png",
 			"nsfw": false
 		},
 		{
