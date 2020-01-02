@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Music",
-			"description": null,
+			"description": "Music is the main theme of the show.",
 			"mal_genre_id": 19,
 			"color": "#D2A2FC",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Music.png",
@@ -170,7 +170,7 @@
 		},
 		{
 			"name": "Mystery",
-			"description": null,
+			"description": "A type of fiction in which a detective, or other professional, solves a crime or series of crimes.",
 			"mal_genre_id": 7,
 			"color": "#8D6E53",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Mystery.png",
@@ -178,7 +178,7 @@
 		},
 		{
 			"name": "Parody",
-			"description": null,
+			"description": "An imitation of a particular writer, artist, or genre, exaggerating it deliberately to produce a comic effect.",
 			"mal_genre_id": 20,
 			"color": "#CAE4FF",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Parody.png",
@@ -186,7 +186,7 @@
 		},
 		{
 			"name": "Police",
-			"description": null,
+			"description": "A story that primarly deals with the police.",
 			"mal_genre_id": 39,
 			"color": "#5786CE",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Police.png",
@@ -194,7 +194,7 @@
 		},
 		{
 			"name": "Psychological",
-			"description": null,
+			"description": "A story which emphasizes the psychology of its characters and their unstable emotional states",
 			"mal_genre_id": 40,
 			"color": "#6E6E6E",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Psychological.png",
@@ -210,7 +210,7 @@
 		},
 		{
 			"name": "Samurai",
-			"description": null,
+			"description": "Shows that depict samurai or swordplay in general.",
 			"mal_genre_id": 21,
 			"color": "#C6D5B4",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Samurai.png",
@@ -218,7 +218,7 @@
 		},
 		{
 			"name": "School",
-			"description": null,
+			"description": "The main theme of the show takes place at a school or in a school like environment.",
 			"mal_genre_id": 23,
 			"color": "#91FAFA",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/School.png",
@@ -226,7 +226,7 @@
 		},
 		{
 			"name": "Sci-Fi",
-			"description": null,
+			"description": "Speculative fiction that typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life.",
 			"mal_genre_id": 24,
 			"color": "#978080",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Sci-Fi.png",
@@ -234,15 +234,15 @@
 		},
 		{
 			"name": "Seinen",
-			"description": null,
+			"description": "Show that are typically aimed at men from their 20s to 50s.",
 			"mal_genre_id": 42,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#809781",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Seinen.png",
 			"nsfw": false
 		},
 		{
 			"name": "Shoujo",
-			"description": null,
+			"description": "Show that are typically aimed at young girls under the age of fifteen.",
 			"mal_genre_id": 25,
 			"color": "#ffffff",
 			"symbol": null,
@@ -250,7 +250,7 @@
 		},
 		{
 			"name": "Shoujo Ai",
-			"description": null,
+			"description": "A narrative or visual work featuring a romance or sexual relationship between two or more females, primarily intended for a male audience.",
 			"mal_genre_id": 26,
 			"color": "#ffffff",
 			"symbol": null,
@@ -258,7 +258,7 @@
 		},
 		{
 			"name": "Shounen",
-			"description": null,
+			"description": "Show that are typically aimed at young boys under the age of fifteen.",
 			"mal_genre_id": 27,
 			"color": "#ffffff",
 			"symbol": null,
@@ -266,7 +266,7 @@
 		},
 		{
 			"name": "Shounen Ai",
-			"description": null,
+			"description": "A narrative or visual work featuring a romance or sexual relationship between two or more males, primarily intended for a female audience.",
 			"mal_genre_id": 28,
 			"color": "#ffffff",
 			"symbol": null,
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "Space",
-			"description": null,
+			"description": "The main theme of the show is set in space.",
 			"mal_genre_id": 29,
 			"color": "#ffffff",
 			"symbol": null,
@@ -290,7 +290,7 @@
 		},
 		{
 			"name": "Sports",
-			"description": null,
+			"description": "Sports is the main theme of the show.",
 			"mal_genre_id": 30,
 			"color": "#ffffff",
 			"symbol": null,
@@ -298,7 +298,7 @@
 		},
 		{
 			"name": "Super Power",
-			"description": null,
+			"description": "Superpower is a popular culture term for an imaginary superhuman ability.",
 			"mal_genre_id": 31,
 			"color": "#ffffff",
 			"symbol": null,
@@ -306,7 +306,7 @@
 		},
 		{
 			"name": "Supernatural",
-			"description": null,
+			"description": "Supernatural is a genre of speculative fiction that exploits or is centered around supernatural themes, often violating naturalist assumptions of the real world.",
 			"mal_genre_id": 37,
 			"color": "#ffffff",
 			"symbol": null,
@@ -314,7 +314,7 @@
 		},
 		{
 			"name": "Thriller",
-			"description": null,
+			"description": "Thriller is a genre of fiction, having numerous, often overlapping subgenres. Thrillers are characterized and defined by the moods they elicit, giving viewers heightened feelings of suspense, excitement, surprise, anticipation and anxiety.",
 			"mal_genre_id": 41,
 			"color": "#ffffff",
 			"symbol": null,
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Vampire",
-			"description": null,
+			"description": "A vampire is a creature from folklore that subsists by feeding on the vital essence (generally in the form of blood) of the living.",
 			"mal_genre_id": 32,
 			"color": "#ffffff",
 			"symbol": null,
@@ -330,7 +330,7 @@
 		},
 		{
 			"name": "Yaoi",
-			"description": null,
+			"description": "Yaoi, or Boys Love, is a term used for content in Japanese media (anime, manga, and literary works) involving romantic relationships between men, both sexual and non-sexual in nature.",
 			"mal_genre_id": 33,
 			"color": "#ffffff",
 			"symbol": null,
@@ -338,15 +338,15 @@
 		},
 		{
 			"name": "Yuri",
-			"description": null,
+			"description": "Yuri, or Girls Love, is a term used for content in Japanese media (anime, manga, and literary works) involving romantic relationships between women, both sexual and non-sexual in nature.",
 			"mal_genre_id": 34,
-			"color": "#ffffff",
+			"color": "#ffb7c5",
 			"symbol": null,
 			"nsfw": false
 		},
 		{
 			"name": "Travel",
-			"description": null,
+			"description": "The show can be about the history of places (cities, countries, and out of the way haunts), the desirable sights to see in those places, and the cultures, foods, and people of those places.",
 			"mal_genre_id": null,
 			"color": "#34bbfa",
 			"symbol": null,
