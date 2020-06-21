@@ -188,7 +188,7 @@
 			"name": "Police",
 			"description": "A story that primarly deals with the police.",
 			"mal_genre_id": 39,
-			"color": "#5786CE",
+			"color": "#7EB7E3",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Police.png",
 			"nsfw": false
 		},
@@ -220,7 +220,7 @@
 			"name": "School",
 			"description": "The main theme of the show takes place at a school or in a school like environment.",
 			"mal_genre_id": 23,
-			"color": "#91FAFA",
+			"color": "#CCFEFE",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/School.png",
 			"nsfw": false
 		},
@@ -228,7 +228,7 @@
 			"name": "Sci-Fi",
 			"description": "Speculative fiction that typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life.",
 			"mal_genre_id": 24,
-			"color": "#978080",
+			"color": "#978888",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Sci-Fi.png",
 			"nsfw": false
 		},
@@ -332,16 +332,16 @@
 			"name": "Yaoi",
 			"description": "Yaoi, or Boys Love, is a term used for content in Japanese media (anime, manga, and literary works) involving romantic relationships between men, both sexual and non-sexual in nature.",
 			"mal_genre_id": 33,
-			"color": "#ffffff",
-			"symbol": null,
+			"color": "#E6F8FF",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Yaoi.png",
 			"nsfw": false
 		},
 		{
 			"name": "Yuri",
 			"description": "Yuri, or Girls Love, is a term used for content in Japanese media (anime, manga, and literary works) involving romantic relationships between women, both sexual and non-sexual in nature.",
 			"mal_genre_id": 34,
-			"color": "#ffb7c5",
-			"symbol": null,
+			"color": "#FFB7C5",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Yuri.png",
 			"nsfw": false
 		},
 		{
