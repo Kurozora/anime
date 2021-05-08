@@ -49,6 +49,14 @@
 			"nsfw": false
 		},
 		{
+			"name": "Doujinshi",
+			"description": "Self-published print works.",
+			"mal_genre_id": 43,
+			"color": "#ffffff",
+			"symbol": null,
+			"nsfw": true
+		},
+		{
 			"name": "Drama",
 			"description": "Drama is a type of narrative fiction (or semi-fiction) intended to be more serious than humorous in tone, focusing on in-depth development of realistic characters who must deal with realistic emotional struggles.",
 			"mal_genre_id": 8,
@@ -78,6 +86,14 @@
 			"mal_genre_id": 11,
 			"color": "#FF99B7",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Game.png",
+			"nsfw": false
+		},
+		{
+			"name": "Gender Bender",
+			"description": "Stories focused on a person who dresses and behaves like a member of the opposite sex.",
+			"mal_genre_id": 44,
+			"color": "#ffffff",
+			"symbol": null,
 			"nsfw": false
 		},
 		{
@@ -141,7 +157,7 @@
 			"description": "Stories that portray fighting and the practicing of martial arts.",
 			"mal_genre_id": 17,
 			"color": "#E6997F",
-			"symbol": "https://github.com/Kurozora/anime/blob/master/genre-symbols/Martial%20Arts.png",
+			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Martial%20Arts.png",
 			"nsfw": false
 		},
 		{
@@ -186,7 +202,7 @@
 		},
 		{
 			"name": "Police",
-			"description": "A story that primarly deals with the police.",
+			"description": "A story that primarily deals with the police.",
 			"mal_genre_id": 39,
 			"color": "#7EB7E3",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Police.png",
