@@ -350,7 +350,7 @@
 			"mal_genre_id": 33,
 			"color": "#E6F8FF",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Yaoi.png",
-			"nsfw": false
+			"nsfw": true
 		},
 		{
 			"name": "Yuri",
@@ -358,7 +358,7 @@
 			"mal_genre_id": 34,
 			"color": "#FFB7C5",
 			"symbol": "https://raw.githubusercontent.com/Kurozora/anime/master/genre-symbols/Yuri.png",
-			"nsfw": false
+			"nsfw": true
 		},
 		{
 			"name": "Travel",
